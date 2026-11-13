@@ -10,8 +10,8 @@ Firefox is the top non-Chromium browser, offering nice security and privacy feat
 📁 For direct downloads: Use BypassAllShortlinksDebloated.
 File hosters use redirects to force users to view ads with timers, this will avoid them. Install [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) add-on for Firefox, then install the [BypassAllShortlinksDebloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) script.
 
-🧲 For torrenting: Install a reputable torrent client such as [qBittorrent.]
-Torrent client is a separate program that is essential for downloading files via torrent files, which is a method distinct from direct downloads.
+🧲 For torrenting: Install a reputable torrent client such as [qBittorrent.](https://www.qbittorrent.org/)
+Torrent client is a separate program that is essential for downloading files via [torrent files](https://en.wikipedia.org/wiki/Torrent_file), which is a method distinct from [direct downloads](https://en.wikipedia.org/wiki/Direct_download_link).
 
 🧲 For torrenting: Set up a VPN network such as AirVPN or ProtonVPN.
 VPN enhances online privacy and security by encrypting the connection and masking the IP address, making it ideal for torrenting as it protects your identity, and allows access to restricted content.
