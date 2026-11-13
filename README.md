@@ -15,7 +15,7 @@ File hosters use redirects to force users to view ads with timers, this will avo
 
 Torrent client is a separate program that is essential for downloading files via [torrent files](https://en.wikipedia.org/wiki/Torrent_file), which is a method distinct from [direct downloads](https://en.wikipedia.org/wiki/Direct_download_link).
 
-🧲 For torrenting: Set up a VPN network such as AirVPN or ProtonVPN.
+🧲 For torrenting: Set up a VPN network such as [AirVPN](https://airvpn.org/) or [ProtonVPN](https://protonvpn.com/).
 
 VPN enhances online privacy and security by encrypting the connection and masking the IP address, making it ideal for torrenting as it protects your identity, and allows access to restricted content.
 
