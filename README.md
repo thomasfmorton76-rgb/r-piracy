@@ -47,40 +47,40 @@ Not following the recommendations above puts you at serious risk, regardless of 
 
 🏆 ➜ Greatest Treasures
 
-🧭 All Purpose
+🧭 [All Purpose](https://www.reddit.com/r/Piracy/wiki/megathread/all_purpose/)
 Torrent search engines, aggregators, and DHT crawlers work together to collect public content.
 
-⭐ Anime
+⭐ [Anime](https://www.reddit.com/r/Piracy/wiki/megathread/anime/)
 Japanese animated entertainment with diverse genres and vibrant art style.
 
-📚 Books
+📚 [Books](https://www.reddit.com/r/Piracy/wiki/megathread/books/)
 Manga, comics, and novels are mediums that combine text and images to convey information.
 
-🕹️ Emulators
+🕹️ [Emulators](https://www.reddit.com/r/Piracy/wiki/megathread/emulators/)
 Simulating gaming console functions, while ROMs are digital game copies.
 
-🎮 Games
+🎮 [Games](https://www.reddit.com/r/Piracy/wiki/megathread/games/)
 Electronic games played on a screen, involving interaction and challenges for entertainment.
 
-📱 Mobile
+📱 [Mobile](https://www.reddit.com/r/Piracy/wiki/megathread/mobile/)
 Portable devices combining computing and telephone functions into a single OS like Android or iOS.
 
-🎦 Movies & TV
+🎦 [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv)
 Visual storytelling to evoke emotions and engage viewers, reflecting the human experience.
 
-🎹 Music
+🎹 [Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/)
 Art of arranging sounds creates form, harmony, melody, rhythm, and expression.
 
-⚙️ Software
+⚙️ [Software](https://www.reddit.com/r/Piracy/wiki/megathread/software/)
 Multitude of computer programs, files, and data tailored for desktops.
 
-👟 Sports • FMHY
+👟 [Sports](https://fmhy.net/videopiracyguide#live-tv-sports)• FMHY
 Competitive physical activities showcasing skill and entertainment for spectators.
 
-🧰 Tools
+🧰 [Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools/)
 Activation aids, userscripts, download managers, assistants, extensions, and more.
 
-☣️ Unsafe Sites
+☣️ [Unsafe Sites](https://www.reddit.com/r/Piracy/wiki/megathread/unsafe-sites/)
 Reputation of these malicious websites has been tarnished by numerous serious offenses.
  
 
@@ -90,34 +90,34 @@ Reputation of these malicious websites has been tarnished by numerous serious of
 
 🪙 ➜ Other Treasures
 
-📁 Awesome Piracy
+📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 Compilation of all secure links to every legitimate website for all things related to sailing the seas.
 
-📁 Champagne Piracy Wiki
+📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
 An assortment of safeguarded links, spanning across a multitude of platforms and categories.
 
-📁 EverythingMoe
+📁 [EverythingMoe](https://everythingmoe.com/)
 Explore a range of anime streaming information including websites, apps, news, and much more.
 
-📁 FMHY
+📁 [FMHY](https://fmhy.net/)
 Immerse yourself in the internet's colossal collection of freebies, unmatched in its scale.
 
-📁 MediaSavvy
+📁 [MediaSavvy](https://mediasavvy.pages.dev/)
 Comprehensive and versatile wiki that offers a wide range of options.
 
-📁 Pirated Games Mega Thread
+📁 [Pirated Games Mega Thread](https://rentry.org/pgames)
 Torrent and direct-download links for pirated games, plus all necessary dependencies.
 
-📁 Ripped
+📁 [Ripped](https://ripped.guide/)
 Collection of esteemed websites and tools endorsed by the community.
 
-📁 The Index
+📁 [The Index](https://theindex.moe/)
 Extensive index that catalogs and compares a wide array of content, dedicated to Japanese media.
 
-📁 Wiki Index
+📁 [Wiki Index](https://wiki-index.pages.dev/)
 Variety of free resources, embracing a culture of sharing and accessibility.
 
-📁 Wotaku
+📁 [Wotaku](https://wotaku.wiki/)
 Plethora of resources covering Japanese media and language from various references.
  
 
