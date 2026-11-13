@@ -48,40 +48,39 @@ Not following the recommendations above puts you at serious risk, regardless of 
 🏆 ➜ Greatest Treasures
 
 🧭 All Purpose
-
 Torrent search engines, aggregators, and DHT crawlers work together to collect public content.
+
 ⭐ Anime
-
 Japanese animated entertainment with diverse genres and vibrant art style.
+
 📚 Books
-
 Manga, comics, and novels are mediums that combine text and images to convey information.
+
 🕹️ Emulators
-
 Simulating gaming console functions, while ROMs are digital game copies.
+
 🎮 Games
-
 Electronic games played on a screen, involving interaction and challenges for entertainment.
+
 📱 Mobile
-
 Portable devices combining computing and telephone functions into a single OS like Android or iOS.
+
 🎦 Movies & TV
-
 Visual storytelling to evoke emotions and engage viewers, reflecting the human experience.
+
 🎹 Music
-
 Art of arranging sounds creates form, harmony, melody, rhythm, and expression.
+
 ⚙️ Software
-
 Multitude of computer programs, files, and data tailored for desktops.
+
 👟 Sports • FMHY
-
 Competitive physical activities showcasing skill and entertainment for spectators.
+
 🧰 Tools
-
 Activation aids, userscripts, download managers, assistants, extensions, and more.
-☣️ Unsafe Sites
 
+☣️ Unsafe Sites
 Reputation of these malicious websites has been tarnished by numerous serious offenses.
  
 
@@ -92,37 +91,33 @@ Reputation of these malicious websites has been tarnished by numerous serious of
 🪙 ➜ Other Treasures
 
 📁 Awesome Piracy
-
 Compilation of all secure links to every legitimate website for all things related to sailing the seas.
+
 📁 Champagne Piracy Wiki
-
 An assortment of safeguarded links, spanning across a multitude of platforms and categories.
+
 📁 EverythingMoe
-
 Explore a range of anime streaming information including websites, apps, news, and much more.
+
 📁 FMHY
-
 Immerse yourself in the internet's colossal collection of freebies, unmatched in its scale.
+
 📁 MediaSavvy
-
 Comprehensive and versatile wiki that offers a wide range of options.
+
 📁 Pirated Games Mega Thread
-
 Torrent and direct-download links for pirated games, plus all necessary dependencies.
-📁 Porn Dude • NSFW
 
-Unrivaled directory for the ultimate collection of top-tier free and premium adult websites.
 📁 Ripped
-
 Collection of esteemed websites and tools endorsed by the community.
+
 📁 The Index
-
 Extensive index that catalogs and compares a wide array of content, dedicated to Japanese media.
+
 📁 Wiki Index
-
 Variety of free resources, embracing a culture of sharing and accessibility.
-📁 Wotaku
 
+📁 Wotaku
 Plethora of resources covering Japanese media and language from various references.
  
 
