@@ -19,11 +19,11 @@ Torrent client is a separate program that is essential for downloading files via
 
 VPN enhances online privacy and security by encrypting the connection and masking the IP address, making it ideal for torrenting as it protects your identity, and allows access to restricted content.
 
-🧲 For torrenting: Bind the torrent client to the VPN interface.
+🧲 For torrenting: [Bind the torrent client](https://protonvpn.com/support/bittorrent-vpn#how-to-bind-the-client-to-the-proton-vpn-interface)to the VPN interface.
 
-Ensures torrenting only happen when the VPN is active, lowering the chances of a leak of the IP address to essentially zero. For more in-depth details, see our Torrenting + VPN Guide.
+Ensures torrenting only happen when the VPN is active, lowering the chances of a leak of the IP address to essentially zero. For more in-depth details, see our [Torrenting + VPN Guide](https://rentry.org/torrentvpn).
 
-✔️ Recommended: Change your DNS settings.
+✔️ Recommended: Change your [DNS](https://www.privacyguides.org/en/dns/)settings.
 
 DNS can enhance the browsing experience by increasing speed and bypassing restrictions, as your Internet Service Provider (ISP) usually offers a slower default DNS that may censor websites according to their preferences.
 This guide is vetted by moderators: u/Ashley__09, u/LZ129Hindenburg, and u/sunbrothersco.
@@ -34,8 +34,8 @@ This guide is vetted by moderators: u/Ashley__09, u/LZ129Hindenburg, and u/sunbr
 
 👑 ➜ Quality over quantity
 
-The Megathread is to subject to rigorous 👁️‍🗨️ Quality Control checks, and often updated.
-Explore our Rentry / 2 backups which does not require Reddit.
+The Megathread is to subject to rigorous 👁️‍🗨️ [Quality Control](https://www.reddit.com/r/Piracy/wiki/megathread/quality-control/)checks, and often updated.
+Explore our [Rentry](https://rentry.co/megathread)/ [2](https://rentry.org/megathread)backups which does not require Reddit.
 👁️ ➜ Disclaimer
 
 Trustworthy links that were formerly safe may occasionally turn hazardous.
@@ -123,6 +123,7 @@ Plethora of resources covering Japanese media and language from various referenc
 
  
 
-⚓ ❮ Return to r/Piracy
+⚓ ❮ Return to [r/Piracy](https://www.reddit.com/r/Piracy)
 
-💀 ❮ Return to Wiki
+💀 ❮ Return to [Wiki](https://www.reddit.com/r/Piracy/wiki/index/)
+Last revised by [LZ129Hindenburg](https://www.reddit.com/user/LZ129Hindenburg/)3 months ago
