@@ -12,7 +12,7 @@
 
  
 
-📑 ➜ Direct Downloads
+*📑 ➜ Direct Downloads*
 
 🐐 [Internet Archive](https://archive.org/)
 + Millions of free books, films, songs, and more are available at this nonprofit library.
@@ -161,3 +161,5 @@ URL Safety Results
  
 
 **📜 ❮ Return to Megathread**
+
+Last revised by [Ashley__09](https://www.reddit.com/user/Ashley__09/)17 days ago
