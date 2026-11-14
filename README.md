@@ -26,7 +26,7 @@ Ensures torrenting only happen when the VPN is active, lowering the chances of a
 ✔️ Recommended: Change your [DNS](https://www.privacyguides.org/en/dns/)settings.
 
 DNS can enhance the browsing experience by increasing speed and bypassing restrictions, as your Internet Service Provider (ISP) usually offers a slower default DNS that may censor websites according to their preferences.
-This guide is vetted by moderators: u/Ashley__09, u/LZ129Hindenburg, and u/sunbrothersco.
+This guide is vetted by moderators: [u/Ashley__09](https://www.reddit.com/u/Ashley__09), [u/LZ129Hindenburg](https://www.reddit.com/u/LZ129Hindenburg), and [u/sunbrothersco](https://www.reddit.com/u/sunbrothersco).
 
  
 
