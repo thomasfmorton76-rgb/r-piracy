@@ -1,4 +1,12 @@
-# r-piracy
+# ## ⚠️ Disclaimer
+
+**This repository and all of its contents are provided strictly for educational, informational, and archival purposes only.**
+
+* **No Hosting:** This project does not host, store, upload, or distribute any copyrighted files, media, or illegal software. It is purely an index of publicly available links and information curated for research and historical documentation.
+* **No Endorsement:** The inclusion of any link, tool, or resource in this list does not constitute an endorsement, promotion, or encouragement of copyright infringement or piracy. 
+* **User Responsibility:** Users are solely responsible for how they utilize the information provided here. You must comply with all applicable local, national, and international laws regarding copyright and intellectual property. The maintainers of this repository assume no liability for any misuse of this information or for the content of external third-party websites.
+* **Copyright & DMCA:** We respect the intellectual property rights of others. If you are a copyright holder and believe that any reference in this repository infringes upon your rights, please open an issue or contact the repository maintainers directly so the link can be reviewed and removed promptly.
+r-piracy
 Repository of r/piracy
 📜 ➜ Megathread
 
