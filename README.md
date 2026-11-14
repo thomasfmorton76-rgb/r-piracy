@@ -1,7 +1,6 @@
 
-r-piracy
-Repository of r/piracy
-📜 ➜ Megathread
+
+**📜 ➜ Megathread**
 
 ⛵ ➜ Not so fast sailor! Do this first
 
