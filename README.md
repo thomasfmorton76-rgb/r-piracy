@@ -1,20 +1,20 @@
 
-**🧭 ➜ Megathread / All Purpose**
+**🧭 ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ All Purpose**
 
 ❕ ➜ Quick reminder
 
 + ✔️ All links have been reviewed and approved by moderators, but proceed with caution.
 
-+ 👍🏻 Rather having an enormous variety, our Megathread provides only the finest options.
++ 👍🏻 Rather having an enormous variety, our [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)provides only the finest options.
 
-+ 🐐 GOAT status = Highly regarded by the pirate community.
++ 🐐 [GOAT](https://www.urbandictionary.com/define.php?term=goat)status = Highly regarded by the pirate community.
  
 
  
 
 📑 ➜ Direct Downloads
 
-🐐 Internet Archive
+🐐 [Internet Archive]
 + Millions of free books, films, songs, and more are available at this nonprofit library.
 URL Safety Results
 
@@ -23,7 +23,7 @@ URL Safety Results
 Fantastic community that host a wide variety of media content across almost all genres.
 URL Safety Results
 
-🔗 Meawfy
+🔗 [Meawfy]
 
 Discover Mega.nz files instantly and access over 9 million indexed items.
 URL Safety Results
