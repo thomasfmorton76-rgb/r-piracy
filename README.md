@@ -45,7 +45,7 @@ Not following the recommendations above puts you at serious risk, regardless of 
 
  
 
-🏆 ➜ Greatest Treasures
+**🏆 ➜ Greatest Treasures**
 
 🧭 [All Purpose](https://www.reddit.com/r/Piracy/wiki/megathread/all_purpose/)
 Torrent search engines, aggregators, and DHT crawlers work together to collect public content.
@@ -88,7 +88,7 @@ Reputation of these malicious websites has been tarnished by numerous serious of
 
 
 
-🪙 ➜ Other Treasures
+**🪙 ➜ Other Treasures**
 
 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 Compilation of all secure links to every legitimate website for all things related to sailing the seas.
