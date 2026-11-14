@@ -1,7 +1,7 @@
 ![Screenshot](IMG_4503.png)
 
 
-**🧭 ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ All Purpose**
+##🧭 ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ All Purpose##
 
 ❕ ➜ Quick reminder
 
@@ -14,7 +14,7 @@
 
  
 
-*📑 ➜ Direct Downloads*
+##📑 ➜ Direct Downloads##
 
 🐐 [Internet Archive](https://archive.org/)
 + Millions of free books, films, songs, and more are available at this nonprofit library.
@@ -58,7 +58,7 @@
 🐐 [RuTracker](https://rutracker.org/forum/index.php)• Russian UI
 
 + Features a wide genre library, robust seeding, and is known as the most comprehensive public tracker.
-+ Sign up to use the search function.
++ **Sign up to use the search function**.
 + [URL Safety Results](https://www.urlvoid.com/scan/rutracker.org/)
 
 🧲 [1337x](https://1337x.to/) / [2](https://1337x-status.org/)➜ [Note](https://rentry.co/megathread-1337x)
