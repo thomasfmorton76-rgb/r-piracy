@@ -13,7 +13,7 @@
 
  
 
-**📑 ➜ Direct Downloads**
+### **📑 ➜ Direct Downloads**
 
 🐐 [Internet Archive](https://archive.org/)
 + Millions of free books, films, songs, and more are available at this nonprofit library.
