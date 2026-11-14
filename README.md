@@ -59,40 +59,40 @@
 + Sign up to use the search function.
 + [URL Safety Results](https://www.urlvoid.com/scan/rutracker.org/)
 
-🧲 [1337x](https://1337x.to/) / [2](https://1337x-status.org/)➜ (Notehttps://rentry.co/megathread-1337x)
+🧲 [1337x](https://1337x.to/) / [2](https://1337x-status.org/)➜ [Note](https://rentry.co/megathread-1337x)
 
 + Super hub for renowned repackers, crackers, and a vast collection of torrent files.
 + [URL Safety Results](https://www.urlvoid.com/scan/1337x.to/)
 
-🧲 Bitsearch
+🧲 [Bitsearch](https://bitsearch.to/)
 
-Advanced search engine that gathers torrent metadata, providing file titles, sizes, and magnet links.
-URL Safety Results
++ Advanced search engine that gathers torrent metadata, providing file titles, sizes, and magnet links.
++ [URL Safety Results](https://www.urlvoid.com/scan/bitsearch.to/)
 
-🧲 BT4G
+🧲 [BT4G](https://bt4gprx.com/)
 
-Making torrent finding and downloading easy for everyone, this torrent search engine uses DHT.
-URL Safety Results
++ Making torrent finding and downloading easy for everyone, this torrent search engine uses DHT.
++ [URL Safety Results](https://www.urlvoid.com/scan/bt4gprx.com/)
 
-🧲 EXT Torrents / 2
+🧲 [EXT Torrents](https://search.extto.com/)/ [2](https://extranet.torrentbay.st/)
 
-Versatile magnet search engine for rapid downloads in diverse media genres.
-URL Safety Results
++ Versatile magnet search engine for rapid downloads in diverse media genres.
++ [URL Safety Results](https://www.urlvoid.com/scan/extto.com/)
 
-🧲 FileMood
+🧲 [FileMood](https://filemood.com/)
 
-Powerful search engine that continuously scans, indexes, and catalogs files available.
-URL Safety Results
++ Powerful search engine that continuously scans, indexes, and catalogs files available.
++ [URL Safety Results](https://www.urlvoid.com/scan/filemood.com/)
 
-🧲 Knaben Database
+🧲 [Knaben Database](https://knaben.eu/)
 
-Realm of web and linux mastery through the evolution of impressive multi-search indexing tool.
-URL Safety Results
++ Realm of web and linux mastery through the evolution of impressive multi-search indexing tool.
++ [URL Safety Results](https://www.urlvoid.com/scan/knaben.eu/)
 
-🧲 LimeTorrents
+🧲 [LimeTorrents](https://www.limetorrents.lol/)
 
-File-sharing service providing a range of content including music, video, and software files.
-URL Safety Results
++ File-sharing service providing a range of content including music, video, and software files.
++ [URL Safety Results](https://www.urlvoid.com/scan/limetorrents.lol/)
 
 🧲 NNM-Club • Russian UI
 
