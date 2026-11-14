@@ -1,6 +1,6 @@
 ![Screenshot](IMG_4503.png)
 
-##🧭 ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ All Purpose**
+##🧭 ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ All Purpose (H2)
 
 ❕ ➜ Quick reminder
 
