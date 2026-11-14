@@ -52,7 +52,7 @@
 
  
 
-**📑 ➜ Torrents**
+### **📑 ➜ Torrents**
 
 🐐 [RuTracker](https://rutracker.org/forum/index.php)• Russian UI
 
@@ -141,7 +141,7 @@ URL Safety Results
 
  
 
-88📑 ➜ Trackers Scene Data**
+### **📑 ➜ Trackers Scene Data**
 
 📒 PreDB / 2
 
@@ -161,6 +161,6 @@ URL Safety Results
 
  
 
-**📜 ❮ Return to Megathread**
+### **📜 ❮ Return to Megathread**
 
 Last revised by [Ashley__09](https://www.reddit.com/user/Ashley__09/)17 days ago
