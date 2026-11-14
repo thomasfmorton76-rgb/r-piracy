@@ -7,7 +7,7 @@
 + ✔️ MOST IMPORTANT: Use [Firefox](https://mozilla.org)+ [Ublock origin.](https://github.com/gorhill/ublock)
 Firefox is the top non-Chromium browser, offering nice security and privacy features. It also boasts the [best compatibility](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)with uBlock Origin for effectively blocking ads and other harmful web content. DO NOT use Chrome. DO NOT use Ublock Origin LITE. These will not keep you safe.
 
-📁 For direct downloads: Use BypassAllShortlinksDebloated.
+•📁 For direct downloads: Use BypassAllShortlinksDebloated.
 
 File hosters use redirects to force users to view ads with timers, this will avoid them. Install [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) add-on for Firefox, then install the [BypassAllShortlinksDebloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) script.
 
