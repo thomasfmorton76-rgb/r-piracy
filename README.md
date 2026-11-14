@@ -53,7 +53,7 @@ This guide is vetted by moderators: [u/Ashley__09](https://www.reddit.com/u/Ashl
 
 🧭 [All Purpose](https://www.reddit.com/r/Piracy/wiki/megathread/all_purpose/)
 
-+Torrent search engines, aggregators, and DHT crawlers work together to collect public content.
++ Torrent search engines, aggregators, and DHT crawlers work together to collect public content.
 
 ⭐ [Anime](https://www.reddit.com/r/Piracy/wiki/megathread/anime/)
 
@@ -107,34 +107,44 @@ This guide is vetted by moderators: [u/Ashley__09](https://www.reddit.com/u/Ashl
 **🪙 ➜ Other Treasures**
 
 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
-Compilation of all secure links to every legitimate website for all things related to sailing the seas.
+
++ Compilation of all secure links to every legitimate website for all things related to sailing the seas.
 
 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
-An assortment of safeguarded links, spanning across a multitude of platforms and categories.
+
++ An assortment of safeguarded links, spanning across a multitude of platforms and categories.
 
 📁 [EverythingMoe](https://everythingmoe.com/)
-Explore a range of anime streaming information including websites, apps, news, and much more.
+
++ Explore a range of anime streaming information including websites, apps, news, and much more.
 
 📁 [FMHY](https://fmhy.net/)
-Immerse yourself in the internet's colossal collection of freebies, unmatched in its scale.
+
++ Immerse yourself in the internet's colossal collection of freebies, unmatched in its scale.
 
 📁 [MediaSavvy](https://mediasavvy.pages.dev/)
-Comprehensive and versatile wiki that offers a wide range of options.
+
++ Comprehensive and versatile wiki that offers a wide range of options.
 
 📁 [Pirated Games Mega Thread](https://rentry.org/pgames)
-Torrent and direct-download links for pirated games, plus all necessary dependencies.
+
++ Torrent and direct-download links for pirated games, plus all necessary dependencies.
 
 📁 [Ripped](https://ripped.guide/)
-Collection of esteemed websites and tools endorsed by the community.
+
++ Collection of esteemed websites and tools endorsed by the community.
 
 📁 [The Index](https://theindex.moe/)
-Extensive index that catalogs and compares a wide array of content, dedicated to Japanese media.
+
++ Extensive index that catalogs and compares a wide array of content, dedicated to Japanese media.
 
 📁 [Wiki Index](https://wiki-index.pages.dev/)
-Variety of free resources, embracing a culture of sharing and accessibility.
+
++ Variety of free resources, embracing a culture of sharing and accessibility.
 
 📁 [Wotaku](https://wotaku.wiki/)
-Plethora of resources covering Japanese media and language from various references.
+
++ Plethora of resources covering Japanese media and language from various references.
  
 
  
