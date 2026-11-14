@@ -101,8 +101,7 @@ This guide is vetted by moderators: [u/Ashley__09](https://www.reddit.com/u/Ashl
 
  
 
-
-
+![Screenshot](IMG_4488.png)
 **🪙 ➜ Other Treasures**
 
 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
