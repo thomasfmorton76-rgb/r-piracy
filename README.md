@@ -1,4 +1,4 @@
-##⚠️ Disclaimer
+⚠️ Disclaimer
 
 **This repository and all of its contents are provided strictly for educational, informational, and archival purposes only.**
 
