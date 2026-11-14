@@ -1,6 +1,6 @@
 ![Screenshot](IMG_4503.png)
 
-__🧭 ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ All Purpose__
+##🧭 ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ All Purpose**
 
 ❕ ➜ Quick reminder
 
@@ -13,7 +13,7 @@ __🧭 ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ All P
 
  
 
-##📑 ➜ Direct Downloads##
+**📑 ➜ Direct Downloads**
 
 🐐 [Internet Archive](https://archive.org/)
 + Millions of free books, films, songs, and more are available at this nonprofit library.
