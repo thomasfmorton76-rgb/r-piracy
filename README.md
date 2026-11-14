@@ -21,32 +21,32 @@
 🔗 [DirtyWarez/94fbrdl](https://94fbrdl.com/) • Sign Up
 
 + Fantastic community that host a wide variety of media content across almost all genres.
-[URL Safety Results](https://www.urlvoid.com/scan/94fbrdl.com/)
++ [URL Safety Results](https://www.urlvoid.com/scan/94fbrdl.com/)
 
 🔗 [Meawfy](https://meawfy.com/)
 
 + Discover Mega.nz files instantly and access over 9 million indexed items.
-[URL Safety Results](https://www.urlvoid.com/scan/meawfy.com/)
++ [URL Safety Results](https://www.urlvoid.com/scan/meawfy.com/)
 
 🔗 [PiraChest](https://justrun.is-a.dev/pirachest/)
 
 + An all in one downloader, streaming, discovery app for many of your favorite media, made with efficiency and customization in mind.
-[URL Safety Results](https://www.urlvoid.com/scan/justrun.is-a.dev/pirachest/)
++ [URL Safety Results](https://www.urlvoid.com/scan/justrun.is-a.dev/pirachest/)
 
 🔗 [Scnlog](https://scnlog.me/)
 
 + Generic database including various types of media content, with a bit more emphasis on music.
-[URL Safety Results](https://www.urlvoid.com/scan/scnlog.me/)
++ [URL Safety Results](https://www.urlvoid.com/scan/scnlog.me/)
  
 🔗 [SoftArchive](https://softarchive.is)/ [2](https://sastatus.com/)
 
 + Scene website recognised for new releases of software, games, music, movies, and eBooks.
-[URL Safety Results](https://www.urlvoid.com/scan/softarchive.is/)
++ [URL Safety Results](https://www.urlvoid.com/scan/softarchive.is/)
 
 🔗 [WarezBook](https://www.warezbook.org/)• Sign Up
 
 + Cleanly designed forum with an online source of movies, software, games, and music.
-[URL Safety Results](https://www.urlvoid.com/scan/warezbook.org/)
++ [URL Safety Results](https://www.urlvoid.com/scan/warezbook.org/)
  
 
  
@@ -55,14 +55,14 @@
 
 🐐 [RuTracker](https://rutracker.org/forum/index.php)• Russian UI
 
-Features a wide genre library, robust seeding, and is known as the most comprehensive public tracker.
-Sign up to use the search function.
-[URL Safety Results](https://www.urlvoid.com/scan/rutracker.org/)
++ Features a wide genre library, robust seeding, and is known as the most comprehensive public tracker.
++ Sign up to use the search function.
++ [URL Safety Results](https://www.urlvoid.com/scan/rutracker.org/)
 
 🧲 [1337x](https://1337x.to/) / [2](https://1337x-status.org/)➜ (Notehttps://rentry.co/megathread-1337x)
 
-Super hub for renowned repackers, crackers, and a vast collection of torrent files.
-[URL Safety Results](https://www.urlvoid.com/scan/1337x.to/)
++ Super hub for renowned repackers, crackers, and a vast collection of torrent files.
++ [URL Safety Results](https://www.urlvoid.com/scan/1337x.to/)
 
 🧲 Bitsearch
 
@@ -140,7 +140,7 @@ URL Safety Results
 
  
 
-📑 ➜ Trackers Scene Data
+88📑 ➜ Trackers Scene Data**
 
 📒 PreDB / 2
 
@@ -160,4 +160,4 @@ URL Safety Results
 
  
 
-📜 ❮ Return to Megathread
+**📜 ❮ Return to Megathread**
