@@ -38,7 +38,7 @@
 + Generic database including various types of media content, with a bit more emphasis on music.
 [URL Safety Results](https://www.urlvoid.com/scan/scnlog.me/)
  
-🔗 [SoftArchive](https://softarchive.is)// [2](https://sastatus.com/)
+🔗 [SoftArchive](https://softarchive.is)/ [2](https://sastatus.com/)
 
 + Scene website recognised for new releases of software, games, music, movies, and eBooks.
 [URL Safety Results](https://www.urlvoid.com/scan/softarchive.is/)
@@ -62,7 +62,7 @@ Sign up to use the search function.
 🧲 [1337x](https://1337x.to/) / [2](https://1337x-status.org/)➜ (Notehttps://rentry.co/megathread-1337x)
 
 Super hub for renowned repackers, crackers, and a vast collection of torrent files.
-URL Safety Results
+[URL Safety Results](https://www.urlvoid.com/scan/1337x.to/)
 
 🧲 Bitsearch
 
