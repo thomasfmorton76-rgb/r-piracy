@@ -14,52 +14,52 @@
 
 📑 ➜ Direct Downloads
 
-🐐 [Internet Archive]
+🐐 [Internet Archive](https://archive.org/)
 + Millions of free books, films, songs, and more are available at this nonprofit library.
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/archive.org/)
 
-🔗 DirtyWarez/94fbrdl • Sign Up
+🔗 [DirtyWarez/94fbrdl](https://94fbrdl.com/) • Sign Up
 
-Fantastic community that host a wide variety of media content across almost all genres.
-URL Safety Results
++ Fantastic community that host a wide variety of media content across almost all genres.
+[URL Safety Results](https://www.urlvoid.com/scan/94fbrdl.com/)
 
-🔗 [Meawfy]
+🔗 [Meawfy](https://meawfy.com/)
 
-Discover Mega.nz files instantly and access over 9 million indexed items.
-URL Safety Results
++ Discover Mega.nz files instantly and access over 9 million indexed items.
+[URL Safety Results](https://www.urlvoid.com/scan/meawfy.com/)
 
-🔗 PiraChest
+🔗 [PiraChest](https://justrun.is-a.dev/pirachest/)
 
-An all in one downloader, streaming, discovery app for many of your favorite media, made with efficiency and customization in mind.
-URL Safety Results
++ An all in one downloader, streaming, discovery app for many of your favorite media, made with efficiency and customization in mind.
+[URL Safety Results](https://www.urlvoid.com/scan/justrun.is-a.dev/pirachest/)
 
-🔗 Scnlog
+🔗 [Scnlog](https://scnlog.me/)
 
-Generic database including various types of media content, with a bit more emphasis on music.
-URL Safety Results
++ Generic database including various types of media content, with a bit more emphasis on music.
+[URL Safety Results](https://www.urlvoid.com/scan/scnlog.me/)
+ 
+🔗 [SoftArchive](https://softarchive.is)// [2](https://sastatus.com/)
 
-🔗 SoftArchive / 2
++ Scene website recognised for new releases of software, games, music, movies, and eBooks.
+[URL Safety Results](https://www.urlvoid.com/scan/softarchive.is/)
 
-Scene website recognised for new releases of software, games, music, movies, and eBooks.
-URL Safety Results
+🔗 [WarezBook](https://www.warezbook.org/)• Sign Up
 
-🔗 WarezBook • Sign Up
-
-Cleanly designed forum with an online source of movies, software, games, and music.
-URL Safety Results
++ Cleanly designed forum with an online source of movies, software, games, and music.
+[URL Safety Results](https://www.urlvoid.com/scan/warezbook.org/)
  
 
  
 
-📑 ➜ Torrents
+**📑 ➜ Torrents**
 
-🐐 RuTracker • Russian UI
+🐐 [RuTracker](https://rutracker.org/forum/index.php)• Russian UI
 
 Features a wide genre library, robust seeding, and is known as the most comprehensive public tracker.
 Sign up to use the search function.
-URL Safety Results
+[URL Safety Results](https://www.urlvoid.com/scan/rutracker.org/)
 
-🧲 1337x / 2 ➜ Note
+🧲 [1337x](https://1337x.to/) / [2](https://1337x-status.org/)➜ (Notehttps://rentry.co/megathread-1337x)
 
 Super hub for renowned repackers, crackers, and a vast collection of torrent files.
 URL Safety Results
