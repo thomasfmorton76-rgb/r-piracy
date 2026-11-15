@@ -1,53 +1,54 @@
 
-### **⭐ ➜ Megathread / Anime**
+### **⭐ ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ Anime**
 
 ❕ ➜ Quick Reminder
 
 + ✅ All links have been reviewed and approved by moderators, but proceed with caution
 + 👍 Rather than having an enormous variety, our [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)provides only the finest options
 + 🐐 GOAT status = Highly regarded by the pirate community
-+ #### **📊 ➜ Databases & Tracking**
 
-🐐 AniList
+#### **📊 ➜ Databases & Tracking**
 
-+ Modern, feature-rich anime and manga tracking platform with a clean interface, advanced statistics, and social features.
-+ URL Safety Results
+🐐 [AniList](https://anilist.co/)
 
-🐐 MyAnimeList
+Modern, feature-rich anime and manga tracking platform with a clean interface, advanced statistics, and social features.
++ [URL Safety Results](https://www.urlvoid.com/scan/anilist.co/)
 
-+ The world's largest anime and manga database. Track your progress, rate series, and join a massive community of anime fans.
+🐐 [MyAnimeList](https://myanimelist.net/)
 
-+ URL Safety Results
+The world's largest anime and manga database. Track your progress, rate series, and join a massive community of anime fans.
 
-📒 Kitsu
++ [URL Safety Results](https://www.urlvoid.com/scan/myanimelist.net/)
 
-+ Beautiful anime discovery platform with extensive database and social networking features for otaku worldwide.
+📒 [Kitsu](https://kitsu.io/)
 
-+ URL Safety Results
+Beautiful anime discovery platform with extensive database and social networking features for otaku worldwide.
 
-📒 AniDB
++ [URL Safety Results](https://www.urlvoid.com/scan/kitsu.io/)
 
-+ Comprehensive non-profit anime database with detailed information, technical specs, and the latest releases.
+📒 [AniDB](https://anidb.net/)
 
-+ URL Safety Results
+Comprehensive non-profit anime database with detailed information, technical specs, and the latest releases.
 
-▶️ Kuroiru
++ [URL Safety Results](https://www.urlvoid.com/scan/anidb.net/)
 
-+ Track anime across platforms while streaming favorite series with integrated tracking features.
+▶️ [Kuroiru](https://kuroiru.co/)
 
-+ URL Safety Results
+Track anime across platforms while streaming favorite series with integrated tracking features.
 
-📒 Kurozora
++ [URL Safety Results](https://www.urlvoid.com/scan/kuroiru.co/)
 
-+All-in-one platform for anime, manga, music, games, movies, OVA, and ONA with vast catalog coverage.
+📒 [Kurozora](https://kurozora.app/)
 
-+ URL Safety Results
+All-in-one platform for anime, manga, music, games, movies, OVA, and ONA with vast catalog coverage.
 
-📒 Anime-Planet
++ [URL Safety Results](https://www.urlvoid.com/scan/kurozora.app/)
+
+📒 [Anime-Planet](https://www.anime-planet.com/)
 
 Discover new anime and manga with personalized recommendations and detailed character information.
 
-📒 Simkl
+📒 [Simkl](https://simkl.com/)
 
 Cross-platform tracker for anime, TV shows, and movies with automatic episode tracking and progress sync.
 
@@ -55,13 +56,13 @@ Cross-platform tracker for anime, TV shows, and movies with automatic episode tr
 
 🐐 Hayase
 
-+ Stream anime through torrents instantly without downloads. Clean interface with multiple source support.
+Stream anime through torrents instantly without downloads. Clean interface with multiple source support.
 
 + URL Safety Results
 
 🐐 Seanime / GitHub
 
-+ Feature-rich self-hosted anime server with library management, torrent streaming, transcoding, and AniList sync.
+Feature-rich self-hosted anime server with library management, torrent streaming, transcoding, and AniList sync.
 
 + URL Safety Results
 
@@ -70,11 +71,13 @@ Cross-platform tracker for anime, TV shows, and movies with automatic episode tr
 Cross-platform app for reading manga and streaming anime with extension support and offline capabilities.
 
 URL Safety Results
+
 🖥️ Akuse
 
 Ad-free anime streaming desktop app with user-friendly interface and reliable performance.
 
 URL Safety Results
+
 🖥️ Taiga
 
 Automatically track anime you're watching with MyAnimeList/AniList integration and episode recognition.
@@ -271,4 +274,8 @@ Looking for more torrent sites? Check our comprehensive all-purpose section.
 📜 ← Return to Megathread
 
 Last revised by Ashley__09 12 days ago
+
+
+
+
 
