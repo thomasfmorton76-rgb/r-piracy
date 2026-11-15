@@ -200,7 +200,7 @@ Platform to read webtoon manhwa, tapas, lezin contents in highest quality possib
 
 + [URL Safety Results](https://www.urlvoid.com/scan/kagane.org/)
 
-🌸 [*+Manga Fox**](https://fanfox.net/)
+🌸 [**Manga Fox**](https://fanfox.net/)
 
 + Access hundreds of high-quality free manga titles online, with a daily updated list.
 
@@ -278,7 +278,7 @@ Collection for all manga genres is available where users can read forever.
 
 Command-line tool offering the downloading of comics, manga, and search.
 
-+ [URL Safety Results])https://www.urlvoid.com/scan/github.com/)
++ [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
 
 🖥️ [**Comics Downloader**](https://github.com/Girbons/comics-downloader)
 
@@ -300,92 +300,104 @@ Easily download and save your favorite manga series with this efficient applicat
 
 ### 🔍 ➜ Search Engines
 
-🔍 Rave Book Search
+🔍 [Rave Book Search](https://ravebooksearch.com/)
 
 Users are helped by the search engine in finding free eBook downloads. It also allows switching to an Audiobook search function.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/ravebooksearch.com/)
 
-🔍 Recherche Ebook • French UI
+🔍 [Recherche Ebook](https://recherche-ebook.fr/)• French UI
 
 Identifies sites where you may access free ebooks done by the sophisticated search engine.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/recherche-ebook.fr/)
 
-▶️ ➜ Streaming
+### ▶️ ➜ Streaming
 
-🐐 AudioAZ
+🐐 [AudioAZ]
 
 Provides a sizable library of audiobooks that may be downloaded or listened to internet by anybody.
 
-URL Safety Results
++ [URL Safety Results]
 
-▶️ AppAudioBooks
+▶️ [AppAudioBooks]
 
 Easy to use design that makes it simple to locate the audiobook you want to listen to.
 
-URL Safety Results
++ [URL Safety Results]
 
-▶️ Audiobooks For Soul
+▶️ [Audiobooks For Soul]
 
 All of the audiobooks on the website are of the greatest caliber, with flawless narration and crystal clear sound.
 
-URL Safety Results
-▶️ Big AudioBooks
++ [URL Safety Results]
+
+▶️ [Big AudioBooks]
 
 Listen to the top audiobooks from a large collection of options.
 
-URL Safety Results
-▶️ Book Audiobooks
++ [URL Safety Results]
+
+▶️ [Book Audiobooks]
 
 Instantly browse and listen to the best audiobooks from a wide range of available selections.
 
-URL Safety Results
++ URL Safety Results
+
 ▶️ Digitalbook
 
 Digital narration for the twenty-first century, available for direct download or streaming.
 
-URL Safety Results
++ URL Safety Results
+
 ▶️ Free Classic AudioBooks
 
 A site where you can download and listen to public domain eBooks and audiobooks.
 
-URL Safety Results
++ URL Safety Results
+
 ▶️ FullLengthAudiobooks
 
 Complete audiobooks available for streaming with easy navigation and good audio quality.
 
-URL Safety Results
++ URL Safety Results
+
 ▶️ GalaxyAudiobooks
 
 Extensive collection of audiobooks across multiple genres with reliable streaming and download options.
 
-URL Safety Results
++ URL Safety Results
+
 ▶️ GoldenAudiobook
 
 Huge selection of audiobooks in a variety of categories, including romance, business, self-help, and non-fiction.
 
-URL Safety Results
++ URL Safety Results
+
 ▶️ HD Audio Books
 
 Take advantage of a wide selection of free audiobooks and podcasts.
 
-URL Safety Results
++ URL Safety Results
+
 ▶️ Hot Audiobooks
 
 You may enjoy all of your favorite audiobooks for free online. Simply click to listen!
 
-URL Safety Results
++ URL Safety Results
+
 ▶️ LibriVox
 
 Public domain audiobooks read by volunteers from around the world, completely free and legal.
 
 URL Safety Results
+
 ▶️ Storynory
 
 Audio stories made for kids. Relax and let your kids' imaginations to wander to fantastical realms.
 
 URL Safety Results
+
 🧲 ➜ Torrent Sites
 
 🐐 AudioBook Bay
