@@ -54,71 +54,78 @@ Cross-platform tracker for anime, TV shows, and movies with automatic episode tr
 
 ### **🖥️ ➜ Desktop Applications**
 
-🐐 Hayase
+🐐 [Hayase](https://hayase.watch/)
 
 Stream anime through torrents instantly without downloads. Clean interface with multiple source support.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/hayase.watch/)
 
-🐐 Seanime / GitHub
+🐐 [Seanime](https://seanime.rahim.app/) / [GitHub](https://github.com/5rahim/seanime)
 
 Feature-rich self-hosted anime server with library management, torrent streaming, transcoding, and AniList sync.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/seanime.rahim.app/)
 
-🖥️ Mangayomi
+🖥️ [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
 Cross-platform app for reading manga and streaming anime with extension support and offline capabilities.
 
-URL Safety Results
++ [URL Safety Results(]https://www.urlvoid.com/scan/github.com/)
 
-🖥️ Akuse
+🖥️ [Akuse](https://github.com/akuse-app/akuse)
 
 Ad-free anime streaming desktop app with user-friendly interface and reliable performance.
 
-URL Safety Results
++ URL Safety Results(https://www.urlvoid.com/scan/github.com/)
 
-🖥️ Taiga
+🖥️ [Taiga](https://taiga.moe/)
 
 Automatically track anime you're watching with MyAnimeList/AniList integration and episode recognition.
 
 ### **📁 ➜ Direct Downloads**
 
-🐐 Anime Tosho
+🐐 [Anime Tosho](https://animetosho.org/)
 
 Automated DDL mirror service for most Nyaa and TokyoTosho releases. Reliable and fast downloads.
 
-URL Safety Results
-🔗 Tokyo Insider
++ [URL Safety Results](https://www.urlvoid.com/scan/animetosho.org/)
+
+🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 
 User-friendly site with vast anime collection from popular subbing groups. Well-organized and regularly updated.
 
-URL Safety Results
-🔗 AnimeOut
++ [URL Safety Results](https://www.urlvoid.com/scan/tokyoinsider.com/)
+
+
+🔗 [AnimeOut](https://www.animeout.xyz/)
 
 Thousands of encoded anime titles available up to 1080p quality with fast download speeds.
 
-URL Safety Results
-🔗 Hi10 Anime • Sign Up Required
++ [URL Safety Results](https://www.urlvoid.com/scan/animeout.xyz/)
+
+🔗 [Hi10 Anime](https://hi10anime.com/) • Sign Up Required
 
 Premium quality anime encodes with smallest file sizes. Known for excellent compression without quality loss.
 
-URL Safety Results
-🔗 NoobSubs
++ [URL Safety Results](https://www.urlvoid.com/scan/hi10anime.com/)
+
+🔗 [NoobSubs](https://www.noobsubs.com/)
 
 Specializes in anime with dual English audio tracks plus torrent options for convenience.
 
-URL Safety Results
-🔗 Kayoanime • Google Group
++ [URL Safety Results](https://www.urlvoid.com/scan/noobsubs.com/)
+
+🔗 [Kayoanime](https://kayoanime.com/)• Google Group
 
 Active community for anime fans sharing updates, news, and download links with discussion.
 
-URL Safety Results
-🔗 ChauThanh
++ [URL Safety Results](https://www.urlvoid.com/scan/kayoanime.com/)
+
+🔗 [ChauThanh](https://chauthanh.info/)
 
 Access over 5,000 high-quality anime, drama series, and soundtracks with organized categories.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/chauthanh.info/)
 
 ### **🎬 ➜ Streaming Sites**
 
@@ -127,6 +134,7 @@ URL Safety Results
 Thousands of anime with optimized streaming for minimal data usage while maintaining quality. Regular updates.
 
 URL Safety Results
+
 🐐 Miruro
 
 High-quality anime streaming in HD with English subtitles/dubbing and download options available.
