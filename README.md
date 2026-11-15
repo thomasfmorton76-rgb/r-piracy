@@ -1,5 +1,5 @@
 
-### **⭐ ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ Anime**
+### ⭐ ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ **Anime**
 
 ❕ ➜ Quick Reminder
 
@@ -52,7 +52,7 @@ Discover new anime and manga with personalized recommendations and detailed char
 
 Cross-platform tracker for anime, TV shows, and movies with automatic episode tracking and progress sync.
 
-### **🖥️ ➜ Desktop Applications**
+### 🖥️ ➜ Desktop Applications
 
 🐐 [**Hayase**](https://hayase.watch/)
 
@@ -82,7 +82,7 @@ Ad-free anime streaming desktop app with user-friendly interface and reliable pe
 
 Automatically track anime you're watching with MyAnimeList/AniList integration and episode recognition.
 
-### **📁 ➜ Direct Downloads**
+### 📁 ➜ Direct Downloads
 
 🐐 [**Anime Tosho**](https://animetosho.org/)
 
@@ -127,7 +127,7 @@ Access over 5,000 high-quality anime, drama series, and soundtracks with organiz
 
 + [URL Safety Results](https://www.urlvoid.com/scan/chauthanh.info/)
 
-### **🎬 ➜ Streaming Sites**
+### 🎬 ➜ Streaming Sites
 
 🐐 [**AnimePahe**](https://animepahe.pw/)
 
@@ -265,7 +265,7 @@ Aggregates resources from Anime Garden, Jiying BT, and Youxia BT for comprehensi
 
 URL Safety Results
 
-### **🛠️ ➜ Helpful Tools & Resources**
+### 🛠️ ➜ Helpful Tools & Resources
 
 ##### **Quality & Information**
 
@@ -298,12 +298,13 @@ URL Safety Results
 
 ##### **Technical Resources**
 
-Taiga - Automatically track anime watching progress
-HakuNeko - Multi-site anime and manga downloader
-Substital - External subtitle support for streaming sites
+<small>Taiga - Automatically track anime watching progress<small>
+<small>HakuNeko - Multi-site anime and manga downloader<small>
+<small>Substital - External subtitle support for streaming sites<small>
+
 🔗 ➜ Check Out More
 
-📜 All Purpose Torrents
+📜 [All Purpose Torrents](https://www.reddit.com/r/Piracy/wiki/megathread/all_purpose/)
 
 Looking for more torrent sites? Check our comprehensive all-purpose section.
 
