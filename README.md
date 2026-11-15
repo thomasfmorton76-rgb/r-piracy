@@ -135,97 +135,97 @@ Thousands of anime with optimized streaming for minimal data usage while maintai
 
 + [URL Safety Results](https://www.urlvoid.com/scan/animepahe.pw/)
 
-🐐 [Miruro](https://www.miruro.tv/)
+🐐 [**Miruro**](https://www.miruro.tv/)
 
 High-quality anime streaming in HD with English subtitles/dubbing and download options available.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/miruro.tv/)
 
-🐐 [Re:Anime](https://reanime.to/) / [Alt](https://reindex.to/) / [Alt]https://reanime.wtf/)
+🐐 [**Re:Anime**](https://reanime.to/) / [Alt](https://reindex.to/) / [Alt]https://reanime.wtf/)
 
 Your ultimate destination for anime streaming, discussions, and community. Discover, watch, and connect with fellow anime enthusiasts.
 
-+ URL Safety Results(https://www.urlvoid.com/scan/reanime.to/)
++ [URL Safety Results](https://www.urlvoid.com/scan/reanime.to/)
 
-▶️ [AniHQ]
+▶️ [**AniHQ**](https://anihq.cc/)
 
 Stream English subbed and dubbed anime for free without account registration required.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/anihq.cc/)
 
-▶️ [Anikuro]
+▶️ [**Anikuro**](https://anikuro.to/)
 
 AniKuro is a brand new website to enjoy your favorite anime on. With 11 sources and counting.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/anikuro.to/)
 
-▶️ [AnimeNana]
+▶️ [**AnimeNana**](https://animenana.com/)
 
 Supercharged streaming servers hosting favorite anime series with latest releases and updates.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/animenana.com/*
 
-▶️ [AnimeParadise]
+▶️ [**AnimeParadise**](https://www.animeparadise.moe/)
 
 High-quality streaming that stays current with latest episodes and maintains excellent video standards.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/animeparadise.moe/)
 
-▶️ [AnimeSilo]
+▶️ [**AnimeSilo**](https://animesilo.cc/)
 
 The anime experience, refined.
 
-+ URL Safety Results
++ (URL Safety Results](https://www.urlvoid.com/scan/animesilo.cc/)
 
-▶️ [AnimeNoSub]
+▶️ [**AnimeNoSub**](https://animenosub.to/)
 
 Versatile platform offering SUB, DUB, and RAW anime viewing options for all preferences.
 
-URL Safety Results
+* [URL Safety Results](https://www.urlvoid.com/scan/anizone.to/)
 
-▶️ [AniZone]
+▶️ [**AniZone**](https://anizone.to/)
 
 Comprehensive anime streaming service with extensive library and regular content updates.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/anizone.to/)
 
-▶️ [Flixer]
+▶️ [**Flixer**](https://flixer.su/)
 
 Multi-content streaming service offering anime alongside movies and TV shows with user-friendly interface.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/flixer.su/)
 
-▶️ [Gotaku]
+▶️ [**Gotaku**](https://gotaku.to/)
 
-A simple UI, with fast servers, and AniList sync support.
+ A simple UI, with fast servers, and AniList sync support.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/gotaku.to/)
 
-▶️ [WcoFun] / [Alt]
+▶️ [**WcoFun**](https://wcofun.org/) / [Alt](https://www.wco.tv/)
 
 Watch variety of cartoons and anime free in awesome HD quality with broad content selection.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/wcofun.org/)
 
-▶️ Allwish
+▶️ [**Allwish**](https://all-wish.me/)
 
 Feature-packed interface with extensive database and hourly updates for latest content.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/all-wish.me/)
 
-▶️ Yenime
+▶️ [**Yenime**](https://yenime.net/)
 
 Watch anime online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/Yenime.net/)
 
-🇨🇳 Donghua Specialized
+### **🇨🇳 Donghua Specialized**
 
-▶️ AnimeXin • Donghua Focus
+▶️ [**AnimeXin**](https://animexin.vip/) • Donghua Focus
 
 Specialized in Chinese donghua series with original fansub content and quality releases.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/animexin.vip/)
 
 🧲 ➜ Torrent Sites
 
@@ -233,82 +233,90 @@ URL Safety Results
 
 The most popular anime torrent site dedicated to East Asian media. Massive selection and active community.
 
-URL Safety Results
++ URL Safety Results
+
 🐐 SubsPlease
 
 Leading subgroup providing anime with English subtitles as quickly as possible after Japanese broadcast.
 
-URL Safety Results
++ URL Safety Results
+
 🧲 Beatrice-Raws
 
 Very high-quality raw anime torrents frequently updated and optimally encoded for best quality-to-size ratio.
 
-URL Safety Results
++ URL Safety Results
+
 🧲 Drevos Index
 
 High-quality, near-lossless encodes of anime that I personally ripped from Blu-ray collection.
 
-URL Safety Results
++ URL Safety Results
+
 🧲 Erai-raws • Sign Up Required
 
 Top-tier subbing group prioritizing consistency and quality across all releases with standardized formatting.
 
-URL Safety Results
++ URL Safety Results
+
 🧲 Tokyo Toshokan
 
 Comprehensive source for Japanese content including anime, manga, music, and more with organized categories.
 
-URL Safety Results
++ URL Safety Results
+
 🧲 Project AcgnX • Chinese
 
 Aggregates resources from Anime Garden, Jiying BT, and Youxia BT for comprehensive Asian content coverage.
 
-URL Safety Results
++ URL Safety Results
 
 ### 🛠️ ➜ Helpful Tools & Resources
 
 ##### **Quality & Information**
 
-<small>SeaDex - Anime release quality guide and best version recommendations<small>
+<small>[**SeaDex**](https://releases.moe/) - Anime release quality guide and best version recommendations<small>
 
-<small>AnimeFillerList - Skip filler episodes with comprehensive guides<small>
+<small>**AnimeFillerList**](https://www.animefillerlist.com/) - Skip filler episodes with comprehensive guides<small>
 
-<small>Anime Skip - Automatically skip anime openings and endings<small>
+<small>[**Anime Skip**](https://anime-skip.com/) - Automatically skip anime openings and endings<small>
 
-<small>trace.moe - Reverse image search to identify anime from screenshots<small>
+<small>[**trace.moe**](https://trace.moe/) - Reverse image search to identify anime from screenshots<small>
 
 ##### **Scheduling & Tracking**
 
 
-<small>AniChart - Visual anime release calendar and seasonal charts<small>
+<small>[**AniChart**](https://anichart.net/) - Visual anime release calendar and seasonal charts<small>
 
-<small>LiveChart - Comprehensive anime scheduling and release tracking<small>
+<small>[**LiveChart**](https://www.livechart.me/) - Comprehensive anime scheduling and release tracking<small>
 
-<small>Senpai - Clean anime release schedule with countdown timers<small>
+<small>[**Senpai**](https://www.senpai.moe/) - Clean anime release schedule with countdown timers<small>
 
-####% **Community & Discovery**
+#### **Community & Discovery**
 
-<small>/r/anime Wiki - Comprehensive anime watch order guides
+<small>[**/r/anime Wiki**](https://www.reddit.com/r/anime/wiki/watch_order/) - Comprehensive anime watch order guides
 
-<small>Wotaku - Extensive anime resource wiki and community guides
+<small>[**Wotaku**](https://wotaku.wiki/) - Extensive anime resource wiki and community guides
 
-<small>The Wiki - r/animepiracy wiki<small>
+<small>[**The Wiki**](https://thewiki.moe/) - [r/animepiracy](https://www.reddit.com/r/animepiracy) wiki<small>
 
-<small>The Index - Curated anime resource directory<small>
+<small>[**The Index**](https://theindex.moe/) - Curated anime resource directory<small>
 
 ##### **Technical Resources**
 
-<small>Taiga - Automatically track anime watching progress<small>
-<small>HakuNeko - Multi-site anime and manga downloader<small>
-<small>Substital - External subtitle support for streaming sites<small>
+<small>[**Taiga**](https://taiga.moe/) - Automatically track anime watching progress<small>
+
+<small>[**HakuNeko**](https://hakuneko.download/) - Multi-site anime and manga downloader<small>
+
+<small>[**Substital**](https://substital.com/) - External subtitle support for streaming sites<small>
 
 🔗 ➜ Check Out More
 
-📜 [All Purpose Torrents](https://www.reddit.com/r/Piracy/wiki/megathread/all_purpose/)
+📜 [**All Purpose Torrents**](https://www.reddit.com/r/Piracy/wiki/megathread/all_purpose/)
 
 Looking for more torrent sites? Check our comprehensive all-purpose section.
 
-📜 ← Return to Megathread
+📜 [**← Return to Megathread**][https://www.reddit.com/r/Piracy/wiki/megathread/]
 
 Last revised by Ashley__09 12 days ago
 
