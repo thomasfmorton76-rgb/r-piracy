@@ -14,114 +14,114 @@
 Modern, feature-rich anime and manga tracking platform with a clean interface, advanced statistics, and social features.
 + [URL Safety Results](https://www.urlvoid.com/scan/anilist.co/)
 
-🐐 **[MyAnimeList](https://myanimelist.net/)**
+🐐 [**MyAnimeList**](https://myanimelist.net/)
 
 The world's largest anime and manga database. Track your progress, rate series, and join a massive community of anime fans.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/myanimelist.net/)
 
-📒 [Kitsu](https://kitsu.io/)
+📒 [**Kitsu**](https://kitsu.io/)
 
 Beautiful anime discovery platform with extensive database and social networking features for otaku worldwide.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/kitsu.io/)
 
-📒 [AniDB](https://anidb.net/)
+📒 [**AniDB**](https://anidb.net/)
 
 Comprehensive non-profit anime database with detailed information, technical specs, and the latest releases.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/anidb.net/)
 
-▶️ [Kuroiru](https://kuroiru.co/)
+▶️ [**Kuroiru**](https://kuroiru.co/)
 
 Track anime across platforms while streaming favorite series with integrated tracking features.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/kuroiru.co/)
 
-📒 [Kurozora](https://kurozora.app/)
+📒 [**Kurozora**](https://kurozora.app/)
 
 All-in-one platform for anime, manga, music, games, movies, OVA, and ONA with vast catalog coverage.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/kurozora.app/)
 
-📒 [Anime-Planet](https://www.anime-planet.com/)
+📒 [**Anime-Planet**](https://www.anime-planet.com/)
 
 Discover new anime and manga with personalized recommendations and detailed character information.
 
-📒 [Simkl](https://simkl.com/)
+📒 [**Simkl**](https://simkl.com/)
 
 Cross-platform tracker for anime, TV shows, and movies with automatic episode tracking and progress sync.
 
 ### **🖥️ ➜ Desktop Applications**
 
-🐐 [Hayase](https://hayase.watch/)
+🐐 [**Hayase**](https://hayase.watch/)
 
 Stream anime through torrents instantly without downloads. Clean interface with multiple source support.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/hayase.watch/)
 
-🐐 [Seanime](https://seanime.rahim.app/) / [GitHub](https://github.com/5rahim/seanime)
+🐐 [**Seanime**](https://seanime.rahim.app/) / [GitHub](https://github.com/5rahim/seanime)
 
 Feature-rich self-hosted anime server with library management, torrent streaming, transcoding, and AniList sync.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/seanime.rahim.app/)
 
-🖥️ [Mangayomi](https://github.com/kodjodevf/mangayomi)
+🖥️ [**Mangayomi**](https://github.com/kodjodevf/mangayomi)
 
 Cross-platform app for reading manga and streaming anime with extension support and offline capabilities.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
 
-🖥️ [Akuse](https://github.com/akuse-app/akuse)
+🖥️ [**Akuse**](https://github.com/akuse-app/akuse)
 
 Ad-free anime streaming desktop app with user-friendly interface and reliable performance.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
 
-🖥️ [Taiga](https://taiga.moe/)
+🖥️ [**Taiga**](https://taiga.moe/)
 
 Automatically track anime you're watching with MyAnimeList/AniList integration and episode recognition.
 
 ### **📁 ➜ Direct Downloads**
 
-🐐 [Anime Tosho](https://animetosho.org/)
+🐐 [**Anime Tosho**](https://animetosho.org/)
 
 Automated DDL mirror service for most Nyaa and TokyoTosho releases. Reliable and fast downloads.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/animetosho.org/)
 
-🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
+🔗 [**Tokyo Insider**](https://www.tokyoinsider.com/)
 
 User-friendly site with vast anime collection from popular subbing groups. Well-organized and regularly updated.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/tokyoinsider.com/)
 
 
-🔗 [AnimeOut](https://www.animeout.xyz/)
+🔗 [**AnimeOut**](https://www.animeout.xyz/)
 
 Thousands of encoded anime titles available up to 1080p quality with fast download speeds.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/animeout.xyz/)
 
-🔗 [Hi10 Anime](https://hi10anime.com/) • Sign Up Required
+🔗 [**Hi10 Anime**](https://hi10anime.com/) • Sign Up Required
 
 Premium quality anime encodes with smallest file sizes. Known for excellent compression without quality loss.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/hi10anime.com/)
 
-🔗 [NoobSubs](https://www.noobsubs.com/)
+🔗 [**NoobSubs**](https://www.noobsubs.com/)
 
 Specializes in anime with dual English audio tracks plus torrent options for convenience.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/noobsubs.com/)
 
-🔗 [Kayoanime](https://kayoanime.com/)• Google Group
+🔗 [**Kayoanime**](https://kayoanime.com/)• Google Group
 
 Active community for anime fans sharing updates, news, and download links with discussion.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/kayoanime.com/)
 
-🔗 [ChauThanh](https://chauthanh.info/)
+🔗 [**ChauThanh**](https://chauthanh.info/)
 
 Access over 5,000 high-quality anime, drama series, and soundtracks with organized categories.
 
@@ -129,7 +129,7 @@ Access over 5,000 high-quality anime, drama series, and soundtracks with organiz
 
 ### **🎬 ➜ Streaming Sites**
 
-🐐 [AnimePahe](https://animepahe.pw/)
+🐐 [**AnimePahe**](https://animepahe.pw/)
 
 Thousands of anime with optimized streaming for minimal data usage while maintaining quality. Regular updates.
 
