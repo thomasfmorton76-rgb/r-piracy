@@ -1,326 +1,368 @@
-![Screenshot](IMG_1394.png)
-### ⭐ ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ **Anime**
+SECTIONS
+
+
+📚 ➜ Megathread / Books
 
 ❕ ➜ Quick Reminder
 
-+ ✅ All links have been reviewed and approved by moderators, but proceed with caution
-+ 👍 Rather than having an enormous variety, our [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)provides only the finest options
-+ 🐐 GOAT status = Highly regarded by the pirate community
+✅ All links have been reviewed and approved by moderators, but proceed with caution
+👍 Rather than having an enormous variety, our Megathread provides only the finest options
+🐐 GOAT status = Highly regarded by the pirate community
+📑 ➜ Browser Reading
 
-#### **📊 ➜ Databases & Tracking**
+📒 NovelBuddy
 
-🐐 [**AniList**](https://anilist.co/)
+Read light novels in English that are updated daily in Japan, Korea, and China.
 
-Modern, feature-rich anime and manga tracking platform with a clean interface, advanced statistics, and social features.
-+ [URL Safety Results](https://www.urlvoid.com/scan/anilist.co/)
+URL Safety Results
+📒 Project Gutenberg
 
-🐐 [**MyAnimeList**](https://myanimelist.net/)
+Founded in 1971, this source has continued to offer further materials such as Kindle ebooks.
 
-The world's largest anime and manga database. Track your progress, rate series, and join a massive community of anime fans.
+URL Safety Results
+📒 Batcave
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/myanimelist.net/)
+Indexes ongoing series, limited series, graphic novels, and trade paperbacks, updated regularly as new issues release.
 
-📒 [**Kitsu**](https://kitsu.io/)
+URL Safety Results
+📑 ➜ Direct Downloads
 
-Beautiful anime discovery platform with extensive database and social networking features for otaku worldwide.
+🐐 Anna's Archive / Alt / Alt2
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/kitsu.io/)
+Library Genesis, Sci-Hub, and Z-Library are among the sites included in this resilient search engine of shadow libraries.
 
-📒 [**AniDB**](https://anidb.net/)
+URL Safety Results
+🐐 Liber3
 
-Comprehensive non-profit anime database with detailed information, technical specs, and the latest releases.
+Impressive collection, accompanied by a visually appealing user interface.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/anidb.net/)
+URL Safety Results
+🐐 Library Genesis / Alt
 
-▶️ [**Kuroiru**](https://kuroiru.co/)
+Books on engineering and natural science are being collected by the scientific community. Note: Some mirrors may have periodic access issues. View first link for official sites and alternatives.
 
-Track anime across platforms while streaming favorite series with integrated tracking features.
+URL Safety Results
+🐐 Z-Library
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/kuroiru.co/)
+File-sharing effort for scholarly journal articles, academic texts, and general-interest books.
 
-📒 [**Kurozora**](https://kurozora.app/)
+URL Safety Results
+🔗 Courses Bag
 
-All-in-one platform for anime, manga, music, games, movies, OVA, and ONA with vast catalog coverage.
+Offering free courses and tutorials that are simple to follow through self-study.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/kurozora.app/)
+URL Safety Results
+🔗 DownMagaz
 
-📒 [**Anime-Planet**](https://www.anime-planet.com/)
+Easily get pdf magazines in practically every category for free.
 
-Discover new anime and manga with personalized recommendations and detailed character information.
+URL Safety Results
+🔗 ebook-hunter
 
-📒 [**Simkl**](https://simkl.com/)
+Massive collection of PDF and EPUB ebooks that you can search for absolutely free.
 
-Cross-platform tracker for anime, TV shows, and movies with automatic episode tracking and progress sync.
+URL Safety Results
+🔗 ForCoder / Alt / Alt2
 
-### 🖥️ ➜ Desktop Applications
+Focuses on IT and programming books, which are available for free download.
 
-🐐 [**Hayase**](https://hayase.watch/)
+URL Safety Results
+🔗 Free Magazines
 
-Stream anime through torrents instantly without downloads. Clean interface with multiple source support.
+Remain current on a variety of topics and hobbies while keeping you informed and entertained.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/hayase.watch/)
+URL Safety Results
+🔗 FreeCourseSite
 
-🐐 [**Seanime**](https://seanime.rahim.app/) / [GitHub](https://github.com/5rahim/seanime)
+Free downloads (including torrents) of paid courses from Udemy, including programming, marketing, and IT.
 
-Feature-rich self-hosted anime server with library management, torrent streaming, transcoding, and AniList sync.
+URL Safety Results
+🔗 FreeEducationWeb
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/seanime.rahim.app/)
+Thousands of courses from top institutions like Udemy, Linkedin, Pluralsight, and Packtpub.
 
-🖥️ [**Mangayomi**](https://github.com/kodjodevf/mangayomi)
+URL Safety Results
+🔗 GetComics
 
-Cross-platform app for reading manga and streaming anime with extension support and offline capabilities.
+Comics from DC, Marvel, Image, Dark Horse, Dynamite, IDW, Oni, Valiant, and many more publishers.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
-
-🖥️ [**Akuse**](https://github.com/akuse-app/akuse)
-
-Ad-free anime streaming desktop app with user-friendly interface and reliable performance.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
-
-🖥️ [**Taiga**](https://taiga.moe/)
-
-Automatically track anime you're watching with MyAnimeList/AniList integration and episode recognition.
-
-### 📁 ➜ Direct Downloads
-
-🐐 [**Anime Tosho**](https://animetosho.org/)
-
-Automated DDL mirror service for most Nyaa and TokyoTosho releases. Reliable and fast downloads.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/animetosho.org/)
-
-🔗 [**Tokyo Insider**](https://www.tokyoinsider.com/)
-
-User-friendly site with vast anime collection from popular subbing groups. Well-organized and regularly updated.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/tokyoinsider.com/)
-
-
-🔗 [**AnimeOut**](https://www.animeout.xyz/)
-
-Thousands of encoded anime titles available up to 1080p quality with fast download speeds.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/animeout.xyz/)
-
-🔗 [**Hi10 Anime**](https://hi10anime.com/) • Sign Up Required
-
-Premium quality anime encodes with smallest file sizes. Known for excellent compression without quality loss.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/hi10anime.com/)
-
-🔗 [**NoobSubs**](https://www.noobsubs.com/)
-
-Specializes in anime with dual English audio tracks plus torrent options for convenience.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/noobsubs.com/)
-
-🔗 [**Kayoanime**](https://kayoanime.com/)• Google Group
+URL Safety Results
+🔗 Kayoanime • Google Group
 
 Active community for anime fans sharing updates, news, and download links with discussion.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/kayoanime.com/)
+URL Safety Results
+🔗 KuPDF
 
-🔗 [**ChauThanh**](https://chauthanh.info/)
+Large collection of PDF documents including books, academic papers, and educational materials.
 
-Access over 5,000 high-quality anime, drama series, and soundtracks with organized categories.
+URL Safety Results
+🔗 Manybooks
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/chauthanh.info/)
+Over 50,000 free ebooks in popular formats including epub, kindle, and PDF with advanced search options.
 
-### 🎬 ➜ Streaming Sites
+URL Safety Results
+🔗 Musopen
 
-🐐 [**AnimePahe**](https://animepahe.pw/)
+Distribution of music scores, publications, and recordings without copyright limitations. While downloading recordings requires an account, sheet music does not.
 
-Thousands of anime with optimized streaming for minimal data usage while maintaining quality. Regular updates.
+URL Safety Results
+🔗 NoobSubs
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/animepahe.pw/)
+Specializes in anime with dual English audio tracks plus torrent options for convenience.
 
-🐐 [**Miruro**](https://www.miruro.tv/)
+URL Safety Results
+🔗 OceanofPDF
 
-High-quality anime streaming in HD with English subtitles/dubbing and download options available.
+You may get knowledge and information that are freely accessible to everyone.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/miruro.tv/)
+URL Safety Results
+🔗 Online Courses
 
-🐐 [**Re:Anime**](https://reanime.to/) / [Alt](https://reindex.to/) / [Alt](https://reanime.wtf/)
+Watch videos on 3D modeling and animation, including a lot of CG Persia material.
 
-Your ultimate destination for anime streaming, discussions, and community. Discover, watch, and connect with fellow anime enthusiasts.
+URL Safety Results
+🔗 Open Library
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/reanime.to/)
+Internet Archive's digital library with millions of books available to borrow and read online.
 
-▶️ [**AniHQ**](https://anihq.cc/)
+URL Safety Results
+🔗 PDF Room
 
-Stream English subbed and dubbed anime for free without account registration required.
+Search engine indexer where you may locate PDF books for leisure and education.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/anihq.cc/)
+URL Safety Results
+🔗 PDFMagazines Club
 
-▶️ [**Anikuro**](https://anikuro.to/)
+Over 200k journals are housed in a single collection, some of which include content for adults.
 
-AniKuro is a brand new website to enjoy your favorite anime on. With 11 sources and counting.
+URL Safety Results
+🔗 Sci-Hub / Alt / Alt2
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/anikuro.to/)
+Unlimited access to all scientific knowledge by breaking down academic paywalls since 2011.
 
-▶️ [**AnimeNana**](https://animenana.com/)
+URL Safety Results
+🔗 Standard Ebooks
 
-Supercharged streaming servers hosting favorite anime series with latest releases and updates.
+High-quality, carefully formatted public domain ebooks with beautiful typography and thoughtful design.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/animenana.com/)
+URL Safety Results
+🔗 WeLib / Alt
 
-▶️ [**AnimeParadise**](https://www.animeparadise.moe/)
+Anna's Archive Mirror.
 
-High-quality streaming that stays current with latest episodes and maintains excellent video standards.
+URL Safety Results
+📑 ➜ Manga
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/animeparadise.moe/)
+🐐 MangaDex
 
-▶️ [**AnimeSilo**](https://animesilo.cc/)
+All content is supplied by users, scanlation groups, and publishers, that supports all languages.
 
-The anime experience, refined.
+URL Safety Results
+🌸 18Kami • NSFW
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/animesilo.cc/)
+Featuring a wide range of content for adult manga, doujin, manhwa, and hentai comics.
 
-▶️ [**AnimeNoSub**](https://animenosub.to/)
+URL Safety Results
+🌸 Comix
 
-Versatile platform offering SUB, DUB, and RAW anime viewing options for all preferences.
+Comix is a modern online manga reading platform designed to bring fans closer to their favorite stories in a smarter and more personalized way.
 
-* [URL Safety Results](https://www.urlvoid.com/scan/anizone.to/)
+URL Safety Results
+🌸 Kagane
 
-▶️ [**AniZone**](https://anizone.to/)
+Platform to read webtoon manhwa, tapas, lezin contents in highest quality possible directly from source.
 
-Comprehensive anime streaming service with extensive library and regular content updates.
+URL Safety Results
+🌸 Manga Fox
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/anizone.to/)
+Access hundreds of high-quality free manga titles online, with a daily updated list.
 
-▶️ [**Flixer**](https://flixer.su/)
+URL Safety Results
+🌸 MangaBuddy
 
-Multi-content streaming service offering anime alongside movies and TV shows with user-friendly interface.
+Largest database of manga, encompassing all genres with a wide range of topics.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/flixer.su/)
+URL Safety Results
+🌸 MangaFire
 
-▶️ [**Gotaku**](https://gotaku.to/)
+Portal offers a big assortment of manga for all readers and a user-friendly layout.
 
- A simple UI, with fast servers, and AniList sync support.
+URL Safety Results
+🌸 MangaHub
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/gotaku.to/)
+Founded 5 years ago, it has amassed a sizable library of manga, manhwa, and manhua.
 
-▶️ [**WcoFun**](https://wcofun.org/) / [Alt](https://www.wco.tv/)
+URL Safety Results
+🌸 MangaKakalot
 
-Watch variety of cartoons and anime free in awesome HD quality with broad content selection.
+Large variety of manga series are accessible, with the most recent collection open for viewers.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/wcofun.org/)
+URL Safety Results
+🌸 MangaKatana
 
-▶️ [**Allwish**](https://all-wish.me/)
+Read manga online for free, updated every hour! You'll always have material.
 
-Feature-packed interface with extensive database and hourly updates for latest content.
+URL Safety Results
+🌸 MangaPill
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/all-wish.me/)
+Online English manga reading is free and always of the highest quality and freshest releases.
 
-▶️ [**Yenime**](https://yenime.net/)
+URL Safety Results
+🌸 Mangaread
 
-Watch anime online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more.
+All manga is manually updated every day without relying on any automation.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/Yenime.net/)
+URL Safety Results
+🌸 Nyora
 
-### **🇨🇳 Donghua Specialized**
+Nyora is a fast, free, open-source manga, manhwa & manhua reader.
 
-▶️ [**AnimeXin**](https://animexin.vip/) • Donghua Focus
+URL Safety Results
+🌸 Toonily
 
-Specialized in Chinese donghua series with original fansub content and quality releases.
+Access to your favorite premium English-translated manhwa from top Korean publishers.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/animexin.vip/)
+URL Safety Results
+🌸 Usagi
 
-### 🧲 ➜ Torrent Sites
+A simple and convenient mulitlingual open source manga reader for Android.
 
-🐐 [**Nyaa**](https://nyaa.si/) / [Alt](https://nyaa.land/)
+URL Safety Results
+🌸 WeebCentral
 
-The most popular anime torrent site dedicated to East Asian media. Massive selection and active community.
+Collection for all manga genres is available where users can read forever.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/nyaa.si/)
+URL Safety Results
+🖥️ ➜ Manga Downloaders
 
-🐐 [**SubsPlease**](https://subsplease.org/)
+🖥️ Comic-DL
 
-Leading subgroup providing anime with English subtitles as quickly as possible after Japanese broadcast.
+Command-line tool offering the downloading of comics, manga, and search.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/subsplease.org/)
+URL Safety Results
+🖥️ Comics Downloader
 
-🧲 [**Beatrice-Raws**](https://beatrice-raws.org/)
+Utility for acquiring comics and manga in various formats from websites.
 
-Very high-quality raw anime torrents frequently updated and optimally encoded for best quality-to-size ratio.
+URL Safety Results
+🖥️ HakuNeko / GitHub
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/beatrice-raws.org/)
+Cross-platform manga and anime downloader allows you to save material for offline usage from a variety of websites.
 
-🧲 [**Drevos Index**](https://drevosindex.com/)
+URL Safety Results
+🖥️ Manga Bot
 
-High-quality, near-lossless encodes of anime that I personally ripped from Blu-ray collection.
+Easily download and save your favorite manga series with this efficient application.
 
-+ [URL Safety Results](https://www.erai-raws.info/)
+URL Safety Results
+🔍 ➜ Search Engines
 
-🧲 [**Erai-raws**](https://www.erai-raws.info/)• Sign Up Required
+🔍 Rave Book Search
 
-Top-tier subbing group prioritizing consistency and quality across all releases with standardized formatting.
+Users are helped by the search engine in finding free eBook downloads. It also allows switching to an Audiobook search function.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/erai-raws.info/)
+URL Safety Results
+🔍 Recherche Ebook • French UI
 
-🧲 [Tokyo Toshokan](https://www.tokyotosho.info/?cat=1)
+Identifies sites where you may access free ebooks done by the sophisticated search engine.
 
-Comprehensive source for Japanese content including anime, manga, music, and more with organized categories.
+URL Safety Results
+▶️ ➜ Streaming
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/tokyotosho.info/)
+🐐 AudioAZ
 
-🧲 [Project AcgnX](https://share.acgnx.se/)• Chinese
+Provides a sizable library of audiobooks that may be downloaded or listened to internet by anybody.
 
-Aggregates resources from Anime Garden, Jiying BT, and Youxia BT for comprehensive Asian content coverage.
+URL Safety Results
+▶️ AppAudioBooks
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/share.acgnx.se/)
+Easy to use design that makes it simple to locate the audiobook you want to listen to.
 
-### 🛠️ ➜ Helpful Tools & Resources
+URL Safety Results
+▶️ Audiobooks For Soul
 
-##### **Quality & Information**
+All of the audiobooks on the website are of the greatest caliber, with flawless narration and crystal clear sound.
 
-<small>[**SeaDex**](https://releases.moe/) - Anime release quality guide and best version recommendations<small>
+URL Safety Results
+▶️ Big AudioBooks
 
-<small>**AnimeFillerList**](https://www.animefillerlist.com/) - Skip filler episodes with comprehensive guides<small>
+Listen to the top audiobooks from a large collection of options.
 
-<small>[**Anime Skip**](https://anime-skip.com/) - Automatically skip anime openings and endings<small>
+URL Safety Results
+▶️ Book Audiobooks
 
-<small>[**trace.moe**](https://trace.moe/) - Reverse image search to identify anime from screenshots<small>
+Instantly browse and listen to the best audiobooks from a wide range of available selections.
 
-##### **Scheduling & Tracking**
+URL Safety Results
+▶️ Digitalbook
 
+Digital narration for the twenty-first century, available for direct download or streaming.
 
-<small>[**AniChart**](https://anichart.net/) - Visual anime release calendar and seasonal charts<small>
+URL Safety Results
+▶️ Free Classic AudioBooks
 
-<small>[**LiveChart**](https://www.livechart.me/) - Comprehensive anime scheduling and release tracking<small>
+A site where you can download and listen to public domain eBooks and audiobooks.
 
-<small>[**Senpai**](https://www.senpai.moe/) - Clean anime release schedule with countdown timers<small>
+URL Safety Results
+▶️ FullLengthAudiobooks
 
-#### **Community & Discovery**
+Complete audiobooks available for streaming with easy navigation and good audio quality.
 
-<small>[**/r/anime Wiki**](https://www.reddit.com/r/anime/wiki/watch_order/) - Comprehensive anime watch order guides
+URL Safety Results
+▶️ GalaxyAudiobooks
 
-<small>[**Wotaku**](https://wotaku.wiki/) - Extensive anime resource wiki and community guides
+Extensive collection of audiobooks across multiple genres with reliable streaming and download options.
 
-<small>[**The Wiki**](https://thewiki.moe/) - [r/animepiracy](https://www.reddit.com/r/animepiracy) wiki<small>
+URL Safety Results
+▶️ GoldenAudiobook
 
-<small>[**The Index**](https://theindex.moe/) - Curated anime resource directory<small>
+Huge selection of audiobooks in a variety of categories, including romance, business, self-help, and non-fiction.
 
-##### **Technical Resources**
+URL Safety Results
+▶️ HD Audio Books
 
-<small>[**Taiga**](https://taiga.moe/) - Automatically track anime watching progress<small>
+Take advantage of a wide selection of free audiobooks and podcasts.
 
-<small>[**HakuNeko**](https://hakuneko.download/) - Multi-site anime and manga downloader<small>
+URL Safety Results
+▶️ Hot Audiobooks
 
-<small>[**Substital**](https://substital.com/) - External subtitle support for streaming sites<small>
+You may enjoy all of your favorite audiobooks for free online. Simply click to listen!
 
+URL Safety Results
+▶️ LibriVox
+
+Public domain audiobooks read by volunteers from around the world, completely free and legal.
+
+URL Safety Results
+▶️ Storynory
+
+Audio stories made for kids. Relax and let your kids' imaginations to wander to fantastical realms.
+
+URL Safety Results
+🧲 ➜ Torrent Sites
+
+🐐 AudioBook Bay
+
+Superb collection for audiobooks and shares a lot of content with MyAnonamouse. To download without an account, copy the info hash and paste it into your torrent client. Example: magnet:?xt=urn:btih:INFOHASH
+
+URL Safety Results
+🧲 Academic Torrents
+
+Huge datasets shared via a distributed system, giving researchers access to a scalable, secure, and fault-tolerant data repository.
+
+URL Safety Results
+🧲 MyAnonamouse • Sign Up Required
+
+Great private tracker for ebooks, audiobooks, from the newest blockbuster publications to those elusive gems. To obtain an invite, look at this page for more details.
+
+URL Safety Results
 🔗 ➜ Check Out More
 
-📜 [**All Purpose Torrents**](https://www.reddit.com/r/Piracy/wiki/megathread/all_purpose/)
+📜 All Purpose Torrents
 
 Looking for more torrent sites? Check our comprehensive all-purpose section.
 
-📜 [**← Return to Megathread**][https://www.reddit.com/r/Piracy/wiki/megathread/]
+📜 ← Return to Megathread
 
-Last revised by Ashley__09 12 days ago
-
-
-
-
-
+Last revised by LZ129Hindenburg 6 days ago
