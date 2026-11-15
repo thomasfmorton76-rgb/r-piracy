@@ -1,4 +1,4 @@
-![Screenshot](IMG_4503.png)
+(![Screenshot](IMG_4503.png)
 
 ### **🧭 ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ All Purpose**
 
@@ -163,4 +163,4 @@
 
 #### **📜 ❮ Return to Megathread**
 
-Last revised by [Ashley__09](https://www.reddit.com/user/Ashley__09/) 17 days ago
+Last revised by [Ashley__09](https://www.reddit.com/user/Ashley__09/) 18 days ago
