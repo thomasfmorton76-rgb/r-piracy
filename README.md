@@ -141,7 +141,7 @@ High-quality anime streaming in HD with English subtitles/dubbing and download o
 
 + [URL Safety Results](https://www.urlvoid.com/scan/miruro.tv/)
 
-🐐 [**Re:Anime**](https://reanime.to/) / [Alt](https://reindex.to/) / [Alt]https://reanime.wtf/)
+🐐 [**Re:Anime**](https://reanime.to/) / [Alt](https://reindex.to/) / [Alt](https://reanime.wtf/)
 
 Your ultimate destination for anime streaming, discussions, and community. Discover, watch, and connect with fellow anime enthusiasts.
 
