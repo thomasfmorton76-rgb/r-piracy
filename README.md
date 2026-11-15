@@ -4,9 +4,9 @@
 ❕ ➜ Quick Reminder
 
 + ✅ All links have been reviewed and approved by moderators, but proceed with caution
-+ 👍 Rather than having an enormous variety, our Megathread provides only the finest options
++ 👍 Rather than having an enormous variety, our [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)provides only the finest options
 + 🐐 GOAT status = Highly regarded by the pirate community
-+ 📊 ➜ Databases & Tracking
++ #### **📊 ➜ Databases & Tracking**
 
 🐐 AniList
 
@@ -51,7 +51,7 @@ Discover new anime and manga with personalized recommendations and detailed char
 
 Cross-platform tracker for anime, TV shows, and movies with automatic episode tracking and progress sync.
 
-🖥️ ➜ Desktop Applications
+### **🖥️ ➜ Desktop Applications**
 
 🐐 Hayase
 
@@ -79,7 +79,7 @@ URL Safety Results
 
 Automatically track anime you're watching with MyAnimeList/AniList integration and episode recognition.
 
-📁 ➜ Direct Downloads
+### **📁 ➜ Direct Downloads**
 
 🐐 Anime Tosho
 
@@ -116,7 +116,8 @@ URL Safety Results
 Access over 5,000 high-quality anime, drama series, and soundtracks with organized categories.
 
 URL Safety Results
-🎬 ➜ Streaming Sites
+
+### **🎬 ➜ Streaming Sites**
 
 🐐 AnimePahe
 
