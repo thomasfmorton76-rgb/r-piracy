@@ -72,7 +72,7 @@ Massive collection of PDF and EPUB ebooks that you can search for absolutely fre
 
 + [URL Safety Results](https://www.urlvoid.com/scan/ebook-hunter.org/)
 
-🔗 [**ForCoder**])https://forcoder.net/)/ [Alt](https://coderprog.com/) / [Alt2](https://scanlibs.com/)
+🔗 [**ForCoder**](https://forcoder.net//) [Alt](https://coderprog.com/) / [Alt2](https://scanlibs.com/)
 
 Focuses on IT and programming books, which are available for free download.
 
@@ -84,7 +84,7 @@ Remain current on a variety of topics and hobbies while keeping you informed and
 
 + [URL Safety Results](https://www.urlvoid.com/scan/freemagazines.top/)
 
-🔗 **[FreeCourseSite**](https://freemagazines.top/)
+🔗 [**FreeCourseSite**](https://freemagazines.top/)
 
 Free downloads (including torrents) of paid courses from Udemy, including programming, marketing, and IT.
 
@@ -138,160 +138,180 @@ You may get knowledge and information that are freely accessible to everyone.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/oceanofpdf.com/)
 
-🔗 [**Online Courses**]
+🔗 [**Online Courses**](https://online-courses.club/)
 
 Watch videos on 3D modeling and animation, including a lot of CG Persia material.
 
-+ [URL Safety Results]
++ [URL Safety Results](https://www.urlvoid.com/scan/online-courses.club/)
 
-🔗 [**Open Library**]
+🔗 [**Open Library**](https://openlibrary.org/)
 
 Internet Archive's digital library with millions of books available to borrow and read online.
 
-+ [URL Safety Results]
++ [URL Safety Results](https://www.urlvoid.com/scan/openlibrary.org/)
 
-🔗 [**PDF Room**]
+🔗 [**PDF Room**](https://pdfroom.com/)
 
 Search engine indexer where you may locate PDF books for leisure and education.
 
-+ [URL Safety Results]
++ [URL Safety Results](https://www.urlvoid.com/scan/pdfroom.com/)
 
-🔗 [**PDFMagazines Club**]
+🔗 [**PDFMagazines Club**](https://pdfmagazines.club/)
 
 Over 200k journals are housed in a single collection, some of which include content for adults.
 
-+ [URL Safety Results]
++ [URL Safety Results](https://www.urlvoid.com/scan/pdfmagazines.club/)
 
-🔗 [**Sci-Hub**] / [Alt] / [Alt2]
+🔗 [**Sci-Hub**](https://sci-hub.su/)/ [Alt](https://sci-hub.st/) / [Alt2](https://sci-hub.ru/)
 
 Unlimited access to all scientific knowledge by breaking down academic paywalls since 2011.
 
-[URL Safety Results]
++ [URL Safety Results](https://www.urlvoid.com/scan/sci-hub.su/)
 
-🔗 [**Standard Ebooks**]
+🔗 [**Standard Ebooks**](https://standardebooks.org/)
 
 High-quality, carefully formatted public domain ebooks with beautiful typography and thoughtful design.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/standardebooks.org/)
 
-🔗 [**WeLib**] / [Alt]
+🔗 [**WeLib**](https://welib.org/) / [Alt](https://www.welib.st/)
 
 Anna's Archive Mirror.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/welib.org/)
 
 ### 📑 ➜ Manga
 
-🐐 [**MangaDex**]
+🐐 [**MangaDex**](https://mangadex.org/)
 
 All content is supplied by users, scanlation groups, and publishers, that supports all languages.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/mangadex.org/)
 
-🌸 [**Comix**]
+🌸 [**Comix**](https://comix.to/)
 
 Comix is a modern online manga reading platform designed to bring fans closer to their favorite stories in a smarter and more personalized way.
 
-URL Safety Results
-🌸 [**Kagane**]
++ [URL Safety Results](https://www.urlvoid.com/scan/comix.to/)
+
+🌸 [**Kagane**](https://kagane.org/)
 
 Platform to read webtoon manhwa, tapas, lezin contents in highest quality possible directly from source.
 
-URL Safety Results
-🌸 [Manga Fox]
++ [URL Safety Results](https://www.urlvoid.com/scan/kagane.org/)
 
-Access hundreds of high-quality free manga titles online, with a daily updated list.
+🌸 [*+Manga Fox**](https://fanfox.net/)
 
-URL Safety Results
-🌸 [MangaBuddy]
++ Access hundreds of high-quality free manga titles online, with a daily updated list.
+
++ [URL Safety Results](https://www.urlvoid.com/scan/fanfox.net/)
+
+🌸 [**MangaBuddy**](https://mangabuddy.com/)
 
 Largest database of manga, encompassing all genres with a wide range of topics.
 
-URL Safety Results
-🌸 [MangaFire]
++ [URL Safety Results](https://www.urlvoid.com/scan/mangabuddy.com/)
+
+🌸 [**MangaFire**](https://mangafire.to/)
 
 Portal offers a big assortment of manga for all readers and a user-friendly layout.
 
-URL Safety Results
-🌸 [MangaHub]
++ [URL Safety Results](https://www.urlvoid.com/scan/mangafire.to/)
+
+🌸 [**MangaHub**](https://mangahub.io/)
 
 Founded 5 years ago, it has amassed a sizable library of manga, manhwa, and manhua.
 
-URL Safety Results
-🌸 [MangaKakalot]
++ [URL Safety Results](https://www.urlvoid.com/scan/mangahub.io/)
+
+🌸 [**MangaKakalot**](https://mangakakalot.gg/)
 
 Large variety of manga series are accessible, with the most recent collection open for viewers.
 
-URL Safety Results
-🌸 [MangaKatana]
++ [URL Safety Results](https://www.urlvoid.com/scan/mangakakalot.com/)
+
+🌸 [**MangaKatana**](https://mangakatana.com/)
 
 Read manga online for free, updated every hour! You'll always have material.
 
-URL Safety Results
-🌸 [MangaPill]
++ [URL Safety Results](https://www.urlvoid.com/scan/mangakatana.com/)
+
+🌸 [**MangaPill**](https://mangapill.com/)
 
 Online English manga reading is free and always of the highest quality and freshest releases.
 
-URL Safety Results
-🌸 [Mangaread[
++ [URL Safety Results](https://www.urlvoid.com/scan/mangapill.com/)
+
+🌸 [**Mangaread**](https://www.mangaread.org/)
 
 All manga is manually updated every day without relying on any automation.
 
-URL Safety Results
-🌸 [Nyora]
++ [URL Safety Results](https://www.urlvoid.com/scan/mangaread.org/)
+
+🌸 [**Nyora**](https://nyora.xyz/)
 
 Nyora is a fast, free, open-source manga, manhwa & manhua reader.
 
-URL Safety Results
-🌸 Toonily
++ [URL Safety Results](https://www.urlvoid.com/scan/nyora.xyz/)
+
+🌸 [**Toonily**](https://toonily.com/)
 
 Access to your favorite premium English-translated manhwa from top Korean publishers.
 
-URL Safety Results
-🌸 Usagi
++ [URL Safety Results](https://www.urlvoid.com/scan/toonily.com/)
+
+🌸 [**Usagi**](https://yumemi.moe/)
 
 A simple and convenient mulitlingual open source manga reader for Android.
 
-URL Safety Results
-🌸 WeebCentral
++ [URL Safety Results]
+
+🌸 [**WeebCentral**](https://weebcentral.com/)
 
 Collection for all manga genres is available where users can read forever.
 
-URL Safety Results
-🖥️ ➜ Manga Downloaders
++ [URL Safety Results]
 
-🖥️ Comic-DL
+### 🖥️ ➜ Manga Downloaders
+
+🖥️ [**Comic-DL**](https://github.com/Xonshiz/comic-dl)
 
 Command-line tool offering the downloading of comics, manga, and search.
 
-URL Safety Results
-🖥️ Comics Downloader
++ [URL Safety Results])https://www.urlvoid.com/scan/github.com/)
+
+🖥️ [**Comics Downloader**](https://github.com/Girbons/comics-downloader)
 
 Utility for acquiring comics and manga in various formats from websites.
 
-URL Safety Results
-🖥️ HakuNeko / GitHub
++ [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
+
+🖥️ [**HakuNeko**](https://hakuneko.download/) / [GitHub](https://github.com/manga-download/hakuneko)
 
 Cross-platform manga and anime downloader allows you to save material for offline usage from a variety of websites.
 
-URL Safety Results
-🖥️ Manga Bot
++ [URL Safety Results]
+
+🖥️ [**Manga Bot**](https://www.urlvoid.com/scan/hakuneko.download/)
 
 Easily download and save your favorite manga series with this efficient application.
 
-URL Safety Results
-🔍 ➜ Search Engines
++ [URL Safety Results](https://www.urlvoid.com/scan/mangabot.github.io/)
+
+### 🔍 ➜ Search Engines
 
 🔍 Rave Book Search
 
 Users are helped by the search engine in finding free eBook downloads. It also allows switching to an Audiobook search function.
 
 URL Safety Results
+
 🔍 Recherche Ebook • French UI
 
 Identifies sites where you may access free ebooks done by the sophisticated search engine.
 
 URL Safety Results
+
 ▶️ ➜ Streaming
 
 🐐 AudioAZ
@@ -299,11 +319,13 @@ URL Safety Results
 Provides a sizable library of audiobooks that may be downloaded or listened to internet by anybody.
 
 URL Safety Results
+
 ▶️ AppAudioBooks
 
 Easy to use design that makes it simple to locate the audiobook you want to listen to.
 
 URL Safety Results
+
 ▶️ Audiobooks For Soul
 
 All of the audiobooks on the website are of the greatest caliber, with flawless narration and crystal clear sound.
