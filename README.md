@@ -70,7 +70,7 @@ Feature-rich self-hosted anime server with library management, torrent streaming
 
 Cross-platform app for reading manga and streaming anime with extension support and offline capabilities.
 
-+ [URL Safety Results(]https://www.urlvoid.com/scan/github.com/)
++ [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
 
 🖥️ [Akuse](https://github.com/akuse-app/akuse)
 
@@ -129,82 +129,96 @@ Access over 5,000 high-quality anime, drama series, and soundtracks with organiz
 
 ### **🎬 ➜ Streaming Sites**
 
-🐐 AnimePahe
+🐐 [AnimePahe](https://animepahe.pw/)
 
 Thousands of anime with optimized streaming for minimal data usage while maintaining quality. Regular updates.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/animepahe.pw/)
 
-🐐 Miruro
+🐐 [Miruro](https://www.miruro.tv/)
 
 High-quality anime streaming in HD with English subtitles/dubbing and download options available.
 
-URL Safety Results
-🐐 Re:Anime / Alt / Alt
++ [URL Safety Results](https://www.urlvoid.com/scan/miruro.tv/)
+
+🐐 [Re:Anime](https://reanime.to/) / [Alt](https://reindex.to/) / [Alt]https://reanime.wtf/)
 
 Your ultimate destination for anime streaming, discussions, and community. Discover, watch, and connect with fellow anime enthusiasts.
 
-URL Safety Results
-▶️ AniHQ
++ URL Safety Results(https://www.urlvoid.com/scan/reanime.to/)
+
+▶️ [AniHQ]
 
 Stream English subbed and dubbed anime for free without account registration required.
 
-URL Safety Results
-▶️ Anikuro
++ URL Safety Results
+
+▶️ [Anikuro]
 
 AniKuro is a brand new website to enjoy your favorite anime on. With 11 sources and counting.
 
-URL Safety Results
-▶️ AnimeNana
++ URL Safety Results
+
+▶️ [AnimeNana]
 
 Supercharged streaming servers hosting favorite anime series with latest releases and updates.
 
-URL Safety Results
-▶️ AnimeParadise
++ URL Safety Results
+
+▶️ [AnimeParadise]
 
 High-quality streaming that stays current with latest episodes and maintains excellent video standards.
 
-URL Safety Results
-▶️ AnimeSilo
++ URL Safety Results
+
+▶️ [AnimeSilo]
 
 The anime experience, refined.
 
-URL Safety Results
-▶️ AnimeNoSub
++ URL Safety Results
+
+▶️ [AnimeNoSub]
 
 Versatile platform offering SUB, DUB, and RAW anime viewing options for all preferences.
 
 URL Safety Results
-▶️ AniZone
+
+▶️ [AniZone]
 
 Comprehensive anime streaming service with extensive library and regular content updates.
 
 URL Safety Results
-▶️ Flixer
+
+▶️ [Flixer]
 
 Multi-content streaming service offering anime alongside movies and TV shows with user-friendly interface.
 
 URL Safety Results
-▶️ Gotaku
+
+▶️ [Gotaku]
 
 A simple UI, with fast servers, and AniList sync support.
 
 URL Safety Results
-▶️ WcoFun / Alt
+
+▶️ [WcoFun] / [Alt]
 
 Watch variety of cartoons and anime free in awesome HD quality with broad content selection.
 
 URL Safety Results
+
 ▶️ Allwish
 
 Feature-packed interface with extensive database and hourly updates for latest content.
 
 URL Safety Results
+
 ▶️ Yenime
 
 Watch anime online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more.
 
 URL Safety Results
+
 🇨🇳 Donghua Specialized
 
 ▶️ AnimeXin • Donghua Focus
@@ -212,6 +226,7 @@ URL Safety Results
 Specialized in Chinese donghua series with original fansub content and quality releases.
 
 URL Safety Results
+
 🧲 ➜ Torrent Sites
 
 🐐 Nyaa / Alt
