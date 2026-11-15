@@ -163,7 +163,7 @@ AniKuro is a brand new website to enjoy your favorite anime on. With 11 sources 
 
 Supercharged streaming servers hosting favorite anime series with latest releases and updates.
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/animenana.com/*
++ [URL Safety Results](https://www.urlvoid.com/scan/animenana.com/)
 
 ▶️ [**AnimeParadise**](https://www.animeparadise.moe/)
 
@@ -227,49 +227,49 @@ Specialized in Chinese donghua series with original fansub content and quality r
 
 + [URL Safety Results](https://www.urlvoid.com/scan/animexin.vip/)
 
-🧲 ➜ Torrent Sites
+### 🧲 ➜ Torrent Sites
 
-🐐 Nyaa / Alt
+🐐 [**Nyaa**](https://nyaa.si/) / [Alt](https://nyaa.land/)
 
 The most popular anime torrent site dedicated to East Asian media. Massive selection and active community.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/nyaa.si/)
 
-🐐 SubsPlease
+🐐 [**SubsPlease**](https://subsplease.org/)
 
 Leading subgroup providing anime with English subtitles as quickly as possible after Japanese broadcast.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/subsplease.org/)
 
-🧲 Beatrice-Raws
+🧲 [**Beatrice-Raws**](https://beatrice-raws.org/)
 
 Very high-quality raw anime torrents frequently updated and optimally encoded for best quality-to-size ratio.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/beatrice-raws.org/)
 
-🧲 Drevos Index
+🧲 [**Drevos Index**](https://drevosindex.com/)
 
 High-quality, near-lossless encodes of anime that I personally ripped from Blu-ray collection.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.erai-raws.info/)
 
-🧲 Erai-raws • Sign Up Required
+🧲 [**Erai-raws**](https://www.erai-raws.info/)• Sign Up Required
 
 Top-tier subbing group prioritizing consistency and quality across all releases with standardized formatting.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/erai-raws.info/)
 
-🧲 Tokyo Toshokan
+🧲 [Tokyo Toshokan](https://www.tokyotosho.info/?cat=1)
 
 Comprehensive source for Japanese content including anime, manga, music, and more with organized categories.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/tokyotosho.info/)
 
-🧲 Project AcgnX • Chinese
+🧲 [Project AcgnX](https://share.acgnx.se/)• Chinese
 
 Aggregates resources from Anime Garden, Jiying BT, and Youxia BT for comprehensive Asian content coverage.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/share.acgnx.se/)
 
 ### 🛠️ ➜ Helpful Tools & Resources
 
