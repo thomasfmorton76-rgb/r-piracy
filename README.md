@@ -76,7 +76,7 @@ Cross-platform app for reading manga and streaming anime with extension support 
 
 Ad-free anime streaming desktop app with user-friendly interface and reliable performance.
 
-+ URL Safety Results(https://www.urlvoid.com/scan/github.com/)
++ [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
 
 🖥️ [Taiga](https://taiga.moe/)
 
