@@ -1,18 +1,18 @@
 
-⭐ ➜ Megathread / Anime
+### **⭐ ➜ Megathread / Anime**
 
 ❕ ➜ Quick Reminder
 
-✅ All links have been reviewed and approved by moderators, but proceed with caution
-👍 Rather than having an enormous variety, our Megathread provides only the finest options
-🐐 GOAT status = Highly regarded by the pirate community
-📊 ➜ Databases & Tracking
++ ✅ All links have been reviewed and approved by moderators, but proceed with caution
++ 👍 Rather than having an enormous variety, our Megathread provides only the finest options
++ 🐐 GOAT status = Highly regarded by the pirate community
++ 📊 ➜ Databases & Tracking
 
 🐐 AniList
 
-Modern, feature-rich anime and manga tracking platform with a clean interface, advanced statistics, and social features.
++ Modern, feature-rich anime and manga tracking platform with a clean interface, advanced statistics, and social features.
++URL Safety Results
 
-URL Safety Results
 🐐 MyAnimeList
 
 The world's largest anime and manga database. Track your progress, rate series, and join a massive community of anime fans.
