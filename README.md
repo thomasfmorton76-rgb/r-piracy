@@ -11,33 +11,38 @@
 🐐 AniList
 
 + Modern, feature-rich anime and manga tracking platform with a clean interface, advanced statistics, and social features.
-+URL Safety Results
++ URL Safety Results
 
 🐐 MyAnimeList
 
-The world's largest anime and manga database. Track your progress, rate series, and join a massive community of anime fans.
++ The world's largest anime and manga database. Track your progress, rate series, and join a massive community of anime fans.
 
-URL Safety Results
++ URL Safety Results
+
 📒 Kitsu
 
-Beautiful anime discovery platform with extensive database and social networking features for otaku worldwide.
++ Beautiful anime discovery platform with extensive database and social networking features for otaku worldwide.
 
-URL Safety Results
++ URL Safety Results
+
 📒 AniDB
 
-Comprehensive non-profit anime database with detailed information, technical specs, and the latest releases.
++ Comprehensive non-profit anime database with detailed information, technical specs, and the latest releases.
 
-URL Safety Results
++ URL Safety Results
+
 ▶️ Kuroiru
 
-Track anime across platforms while streaming favorite series with integrated tracking features.
++ Track anime across platforms while streaming favorite series with integrated tracking features.
 
-URL Safety Results
++ URL Safety Results
+
 📒 Kurozora
 
-All-in-one platform for anime, manga, music, games, movies, OVA, and ONA with vast catalog coverage.
++All-in-one platform for anime, manga, music, games, movies, OVA, and ONA with vast catalog coverage.
 
-URL Safety Results
++ URL Safety Results
+
 📒 Anime-Planet
 
 Discover new anime and manga with personalized recommendations and detailed character information.
@@ -50,14 +55,16 @@ Cross-platform tracker for anime, TV shows, and movies with automatic episode tr
 
 🐐 Hayase
 
-Stream anime through torrents instantly without downloads. Clean interface with multiple source support.
++ Stream anime through torrents instantly without downloads. Clean interface with multiple source support.
 
-URL Safety Results
++ URL Safety Results
+
 🐐 Seanime / GitHub
 
-Feature-rich self-hosted anime server with library management, torrent streaming, transcoding, and AniList sync.
++ Feature-rich self-hosted anime server with library management, torrent streaming, transcoding, and AniList sync.
 
-URL Safety Results
++ URL Safety Results
+
 🖥️ Mangayomi
 
 Cross-platform app for reading manga and streaming anime with extension support and offline capabilities.
