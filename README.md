@@ -9,12 +9,12 @@
 
 #### **📊 ➜ Databases & Tracking**
 
-🐐 [AniList](https://anilist.co/)
+🐐 [**AniList**](https://anilist.co/)
 
 Modern, feature-rich anime and manga tracking platform with a clean interface, advanced statistics, and social features.
 + [URL Safety Results](https://www.urlvoid.com/scan/anilist.co/)
 
-🐐 [MyAnimeList](https://myanimelist.net/)
+🐐 **[MyAnimeList](https://myanimelist.net/)**
 
 The world's largest anime and manga database. Track your progress, rate series, and join a massive community of anime fans.
 
