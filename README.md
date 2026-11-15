@@ -151,7 +151,7 @@
 📒 [Private Trackers Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)
 
 + Very thorough list demonstrating practically every single private tracker used online.
-+ [URL Safety Result]s(https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)
++ [URL Safety Results](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)
 
 📒 [xREL](https://www.xrel.to/) • German UI
 
