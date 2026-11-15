@@ -1,4 +1,4 @@
-
+![Screenshot](IMG_1394.png)
 ### ⭐ ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ **Anime**
 
 ❕ ➜ Quick Reminder
