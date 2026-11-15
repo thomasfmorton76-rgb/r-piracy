@@ -175,7 +175,7 @@ High-quality streaming that stays current with latest episodes and maintains exc
 
 The anime experience, refined.
 
-+ (URL Safety Results](https://www.urlvoid.com/scan/animesilo.cc/)
++ [URL Safety Results](https://www.urlvoid.com/scan/animesilo.cc/)
 
 ▶️ [**AnimeNoSub**](https://animenosub.to/)
 
