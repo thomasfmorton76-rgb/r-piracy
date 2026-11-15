@@ -241,26 +241,39 @@ URL Safety Results
 Aggregates resources from Anime Garden, Jiying BT, and Youxia BT for comprehensive Asian content coverage.
 
 URL Safety Results
-🛠️ ➜ Helpful Tools & Resources
 
-Quality & Information
+### **🛠️ ➜ Helpful Tools & Resources**
 
-SeaDex - Anime release quality guide and best version recommendations
-AnimeFillerList - Skip filler episodes with comprehensive guides
-Anime Skip - Automatically skip anime openings and endings
-trace.moe - Reverse image search to identify anime from screenshots
-Scheduling & Tracking
+##### **Quality & Information**
 
-AniChart - Visual anime release calendar and seasonal charts
-LiveChart - Comprehensive anime scheduling and release tracking
-Senpai - Clean anime release schedule with countdown timers
-Community & Discovery
+<small>SeaDex - Anime release quality guide and best version recommendations<small>
 
-/r/anime Wiki - Comprehensive anime watch order guides
-Wotaku - Extensive anime resource wiki and community guides
-The Wiki - r/animepiracy wiki
-The Index - Curated anime resource directory
-Technical Resources
+<small>AnimeFillerList - Skip filler episodes with comprehensive guides<small>
+
+<small>Anime Skip - Automatically skip anime openings and endings<small>
+
+<small>trace.moe - Reverse image search to identify anime from screenshots<small>
+
+##### **Scheduling & Tracking**
+
+
+<small>AniChart - Visual anime release calendar and seasonal charts<small>
+
+<small>LiveChart - Comprehensive anime scheduling and release tracking<small>
+
+<small>Senpai - Clean anime release schedule with countdown timers<small>
+
+####% **Community & Discovery**
+
+<small>/r/anime Wiki - Comprehensive anime watch order guides
+
+<small>Wotaku - Extensive anime resource wiki and community guides
+
+<small>The Wiki - r/animepiracy wiki<small>
+
+<small>The Index - Curated anime resource directory<small>
+
+##### **Technical Resources**
 
 Taiga - Automatically track anime watching progress
 HakuNeko - Multi-site anime and manga downloader
