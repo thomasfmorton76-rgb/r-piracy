@@ -1,220 +1,244 @@
 SECTIONS
 
 
-### 📚 ➜ Megathread / Books
+### 📚 ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ Books
 
 ❕ ➜ Quick Reminder
 
-✅ All links have been reviewed and approved by moderators, but proceed with caution
-👍 Rather than having an enormous variety, our Megathread provides only the finest options
-🐐 GOAT status = Highly regarded by the pirate community
-📑 ➜ Browser Reading
++ ✅ All links have been reviewed and approved by moderators, but proceed with caution
++ 👍 Rather than having an enormous variety, our [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) provides only the finest options
++ 🐐 GOAT status = Highly regarded by the pirate community
+### 📑 ➜ Browser Reading
 
-📒 NovelBuddy
+📒 [**NovelBuddy**](https://novelbuddy.com/)
 
 Read light novels in English that are updated daily in Japan, Korea, and China.
 
-URL Safety Results
-📒 Project Gutenberg
++ [URL Safety Results](https://www.urlvoid.com/scan/novelbuddy.com/)
+
+📒 [**Project Gutenberg**](https://www.gutenberg.org/)
 
 Founded in 1971, this source has continued to offer further materials such as Kindle ebooks.
 
-URL Safety Results
-📒 Batcave
++ [URL Safety Results](https://www.urlvoid.com/scan/gutenberg.org/)
+
+📒 [**Batcave**](https://batcave.biz/)
 
 Indexes ongoing series, limited series, graphic novels, and trade paperbacks, updated regularly as new issues release.
 
-URL Safety Results
-📑 ➜ Direct Downloads
++ [URL Safety Results](https://www.urlvoid.com/scan/batcave.biz/)
 
-🐐 Anna's Archive / Alt / Alt2
+### 📑 ➜ Direct Downloads
+
+🐐 [**Anna's Archive**](https://annas-archive.gl/) / [Alt](https://annas-archive.pk/) / [Alt2](https://annas-archive.gd/)
 
 Library Genesis, Sci-Hub, and Z-Library are among the sites included in this resilient search engine of shadow libraries.
 
-URL Safety Results
-🐐 Liber3
++ [URL Safety Results](https://www.urlvoid.com/scan/annas-archive.li/)
+
+🐐 [**Liber3**](https://liber3.eth.limo/)
 
 Impressive collection, accompanied by a visually appealing user interface.
 
-URL Safety Results
-🐐 Library Genesis / Alt
++ [URL Safety Results](https://www.urlvoid.com/scan/liber3.eth.limo/)
+
+🐐 [**Library Genesis**](https://librarygenesis.net/) / [Alt](https://libgen.li/)
 
 Books on engineering and natural science are being collected by the scientific community. Note: Some mirrors may have periodic access issues. View first link for official sites and alternatives.
 
-URL Safety Results
-🐐 Z-Library
++ [URL Safety Results](https://www.urlvoid.com/scan/libgen.is/)
+
+🐐 [**Z-Library**](https://z-lib.gd/)
 
 File-sharing effort for scholarly journal articles, academic texts, and general-interest books.
 
-URL Safety Results
-🔗 Courses Bag
++ [URL Safety Results](https://www.urlvoid.com/scan/z-lib.gd/)
+
+🔗 [**Courses Bag**](https://coursesbag.com/)
 
 Offering free courses and tutorials that are simple to follow through self-study.
 
-URL Safety Results
-🔗 DownMagaz
++ [URL Safety Results](https://www.urlvoid.com/scan/coursesbag.com/)
+
+🔗 [**DownMagaz**](https://downmagaz.net/)
 
 Easily get pdf magazines in practically every category for free.
 
-URL Safety Results
-🔗 ebook-hunter
++ [URL Safety Results](https://www.urlvoid.com/scan/downmagaz.net/)
+
+🔗 [**ebook-hunter**](https://ebook-hunter.org/)
 
 Massive collection of PDF and EPUB ebooks that you can search for absolutely free.
 
-URL Safety Results
-🔗 ForCoder / Alt / Alt2
++ [URL Safety Results](https://www.urlvoid.com/scan/ebook-hunter.org/)
+
+🔗 [**ForCoder**])https://forcoder.net/)/ [Alt](https://coderprog.com/) / [Alt2](https://scanlibs.com/)
 
 Focuses on IT and programming books, which are available for free download.
 
-URL Safety Results
-🔗 Free Magazines
++ [URL Safety Results](https://www.urlvoid.com/scan/forcoder.net/)
+
+🔗 [**Free Magazines**](https://freemagazines.top/)
 
 Remain current on a variety of topics and hobbies while keeping you informed and entertained.
 
-URL Safety Results
-🔗 FreeCourseSite
++ [URL Safety Results](https://www.urlvoid.com/scan/freemagazines.top/)
+
+🔗 **[FreeCourseSite**](https://freemagazines.top/)
 
 Free downloads (including torrents) of paid courses from Udemy, including programming, marketing, and IT.
 
-URL Safety Results
-🔗 FreeEducationWeb
++ [URL Safety Results](https://www.urlvoid.com/scan/freecoursesite.com/)
+
+🔗 [**FreeEducationWeb**](https://freeeducationweb.com/)
 
 Thousands of courses from top institutions like Udemy, Linkedin, Pluralsight, and Packtpub.
 
-URL Safety Results
-🔗 GetComics
++ [URL Safety Results](https://www.urlvoid.com/scan/freeeducationweb.com/)
+
+🔗 [**GetComics**](https://getcomics.org/)
 
 Comics from DC, Marvel, Image, Dark Horse, Dynamite, IDW, Oni, Valiant, and many more publishers.
 
-URL Safety Results
-🔗 Kayoanime • Google Group
++ [URL Safety Results](https://www.urlvoid.com/scan/getcomics.org/)
+
+🔗 [**Kayoanime**](https://kayoanime.com/)• Google Group
 
 Active community for anime fans sharing updates, news, and download links with discussion.
 
-URL Safety Results
-🔗 KuPDF
++ [URL Safety Results](https://www.urlvoid.com/scan/kayoanime.com/)
+
+🔗 [**KuPDF**](https://kupdf.net/)
 
 Large collection of PDF documents including books, academic papers, and educational materials.
 
-URL Safety Results
-🔗 Manybooks
++ [URL Safety Results](https://www.urlvoid.com/scan/kupdf.net/)
+
+🔗 [**Manybooks**](https://manybooks.net/)
 
 Over 50,000 free ebooks in popular formats including epub, kindle, and PDF with advanced search options.
 
-URL Safety Results
-🔗 Musopen
++ [URL Safety Results](https://www.urlvoid.com/scan/manybooks.net/)
+
+🔗 [**Musopen**](https://musopen.org/)
 
 Distribution of music scores, publications, and recordings without copyright limitations. While downloading recordings requires an account, sheet music does not.
 
-URL Safety Results
-🔗 NoobSubs
++ [URL Safety Results](https://www.urlvoid.com/scan/musopen.org/)
+
+🔗 [**NoobSubs**](https://www.noobsubs.com/)
 
 Specializes in anime with dual English audio tracks plus torrent options for convenience.
 
-URL Safety Results
-🔗 OceanofPDF
++ [URL Safety Results](https://www.urlvoid.com/scan/noobsubs.com/)
+
+🔗 [**OceanofPDF**](https://oceanofpdf.com/)
 
 You may get knowledge and information that are freely accessible to everyone.
 
-URL Safety Results
-🔗 Online Courses
++ [URL Safety Results](https://www.urlvoid.com/scan/oceanofpdf.com/)
+
+🔗 [**Online Courses**]
 
 Watch videos on 3D modeling and animation, including a lot of CG Persia material.
 
-URL Safety Results
-🔗 Open Library
++ [URL Safety Results]
+
+🔗 [**Open Library**]
 
 Internet Archive's digital library with millions of books available to borrow and read online.
 
-URL Safety Results
-🔗 PDF Room
++ [URL Safety Results]
+
+🔗 [**PDF Room**]
 
 Search engine indexer where you may locate PDF books for leisure and education.
 
-URL Safety Results
-🔗 PDFMagazines Club
++ [URL Safety Results]
+
+🔗 [**PDFMagazines Club**]
 
 Over 200k journals are housed in a single collection, some of which include content for adults.
 
-URL Safety Results
-🔗 Sci-Hub / Alt / Alt2
++ [URL Safety Results]
+
+🔗 [**Sci-Hub**] / [Alt] / [Alt2]
 
 Unlimited access to all scientific knowledge by breaking down academic paywalls since 2011.
 
-URL Safety Results
-🔗 Standard Ebooks
+[URL Safety Results]
+
+🔗 [**Standard Ebooks**]
 
 High-quality, carefully formatted public domain ebooks with beautiful typography and thoughtful design.
 
 URL Safety Results
-🔗 WeLib / Alt
+
+🔗 [**WeLib**] / [Alt]
 
 Anna's Archive Mirror.
 
 URL Safety Results
-📑 ➜ Manga
 
-🐐 MangaDex
+### 📑 ➜ Manga
+
+🐐 [**MangaDex**]
 
 All content is supplied by users, scanlation groups, and publishers, that supports all languages.
 
 URL Safety Results
-🌸 18Kami • NSFW
 
-Featuring a wide range of content for adult manga, doujin, manhwa, and hentai comics.
-
-URL Safety Results
-🌸 Comix
+🌸 [**Comix**]
 
 Comix is a modern online manga reading platform designed to bring fans closer to their favorite stories in a smarter and more personalized way.
 
 URL Safety Results
-🌸 Kagane
+🌸 [**Kagane**]
 
 Platform to read webtoon manhwa, tapas, lezin contents in highest quality possible directly from source.
 
 URL Safety Results
-🌸 Manga Fox
+🌸 [Manga Fox]
 
 Access hundreds of high-quality free manga titles online, with a daily updated list.
 
 URL Safety Results
-🌸 MangaBuddy
+🌸 [MangaBuddy]
 
 Largest database of manga, encompassing all genres with a wide range of topics.
 
 URL Safety Results
-🌸 MangaFire
+🌸 [MangaFire]
 
 Portal offers a big assortment of manga for all readers and a user-friendly layout.
 
 URL Safety Results
-🌸 MangaHub
+🌸 [MangaHub]
 
 Founded 5 years ago, it has amassed a sizable library of manga, manhwa, and manhua.
 
 URL Safety Results
-🌸 MangaKakalot
+🌸 [MangaKakalot]
 
 Large variety of manga series are accessible, with the most recent collection open for viewers.
 
 URL Safety Results
-🌸 MangaKatana
+🌸 [MangaKatana]
 
 Read manga online for free, updated every hour! You'll always have material.
 
 URL Safety Results
-🌸 MangaPill
+🌸 [MangaPill]
 
 Online English manga reading is free and always of the highest quality and freshest releases.
 
 URL Safety Results
-🌸 Mangaread
+🌸 [Mangaread[
 
 All manga is manually updated every day without relying on any automation.
 
 URL Safety Results
-🌸 Nyora
+🌸 [Nyora]
 
 Nyora is a fast, free, open-source manga, manhwa & manhua reader.
 
@@ -357,12 +381,13 @@ URL Safety Results
 Great private tracker for ebooks, audiobooks, from the newest blockbuster publications to those elusive gems. To obtain an invite, look at this page for more details.
 
 URL Safety Results
+
 🔗 ➜ Check Out More
 
-📜 All Purpose Torrents
+📜 [All Purpose Torrents](https://www.reddit.com/r/Piracy/wiki/megathread/all_purpose/)
 
 Looking for more torrent sites? Check our comprehensive all-purpose section.
 
-📜 ← Return to Megathread
+📜 [← Return to Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)
 
-Last revised by LZ129Hindenburg 6 days ago
+Last revised by [LZ129Hindenburg](https://www.reddit.com/user/LZ129Hindenburg/) 6 days ago
