@@ -163,4 +163,4 @@
 
 #### **📜 ❮ Return to Megathread**
 
-Last revised by [Ashley__09](https://www.reddit.com/user/Ashley__09/)17 days ago
+Last revised by [Ashley__09](https://www.reddit.com/user/Ashley__09/) 17 days ago
