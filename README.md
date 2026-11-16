@@ -348,7 +348,7 @@ Instantly browse and listen to the best audiobooks from a wide range of availabl
 
 Digital narration for the twenty-first century, available for direct download or streaming.
 
-+ URL Safety Results(https://www.urlvoid.com/scan/digitalbook.io/)
++ [URL Safety Results](https://www.urlvoid.com/scan/digitalbook.io/)
 
 ▶️ [Free Classic AudioBooks](https://www.freeclassicaudiobooks.com/)
 
@@ -356,65 +356,67 @@ A site where you can download and listen to public domain eBooks and audiobooks.
 
 + [URL Safety Results](https://www.urlvoid.com/scan/freeclassicaudiobooks.com/)
 
-▶️ [FullLengthAudiobooks]
+▶️ [FullLengthAudiobooks](https://fulllengthaudiobooks.net/)
 
 Complete audiobooks available for streaming with easy navigation and good audio quality.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/fulllengthaudiobooks.net/)
 
-▶️ GalaxyAudiobooks
+▶️ [GalaxyAudiobooks](https://naudios.com/)
 
 Extensive collection of audiobooks across multiple genres with reliable streaming and download options.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/galaxyaudiobook.com/)
 
-▶️ GoldenAudiobook
+▶️ [GoldenAudiobook](https://goldenaudiobooks.com/)
 
 Huge selection of audiobooks in a variety of categories, including romance, business, self-help, and non-fiction.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/goldenaudiobook.com/)
 
-▶️ HD Audio Books
+▶️ [HD Audio Books](https://hdaudiobooks.com/)
 
 Take advantage of a wide selection of free audiobooks and podcasts.
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/hdaudiobooks.com/)
 
-▶️ Hot Audiobooks
+▶️ [Hot Audiobooks](https://hotaudiobooks.com/)
 
 You may enjoy all of your favorite audiobooks for free online. Simply click to listen!
 
-+ URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/hotaudiobooks.com/)
 
-▶️ LibriVox
+▶️ [LibriVox](https://librivox.org/)
 
 Public domain audiobooks read by volunteers from around the world, completely free and legal.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/librivox.org/)
 
-▶️ Storynory
+▶️ [Storynory](https://www.storynory.com/)
 
 Audio stories made for kids. Relax and let your kids' imaginations to wander to fantastical realms.
 
-URL Safety Results
++ [URL Safety Results](https://www.urlvoid.com/scan/storynory.com/)
 
-🧲 ➜ Torrent Sites
+### 🧲 ➜ Torrent Sites
 
-🐐 AudioBook Bay
+🐐 [AudioBook Bay](https://audiobookbay.lu/)
 
 Superb collection for audiobooks and shares a lot of content with MyAnonamouse. To download without an account, copy the info hash and paste it into your torrent client. Example: magnet:?xt=urn:btih:INFOHASH
 
-URL Safety Results
-🧲 Academic Torrents
++ [URL Safety Results](https://www.urlvoid.com/scan/audiobookbay.is/)
+
+🧲 [Academic Torrents](https://academictorrents.com/)
 
 Huge datasets shared via a distributed system, giving researchers access to a scalable, secure, and fault-tolerant data repository.
 
-URL Safety Results
-🧲 MyAnonamouse • Sign Up Required
++ [URL Safety Results](https://www.urlvoid.com/scan/academictorrents.com/)
 
-Great private tracker for ebooks, audiobooks, from the newest blockbuster publications to those elusive gems. To obtain an invite, look at this page for more details.
+🧲 [MyAnonamouse](https://www.myanonamouse.net/) • Sign Up Required
 
-URL Safety Results
+Great private tracker for ebooks, audiobooks, from the newest blockbuster publications to those elusive gems. To obtain an invite, [look at this page](https://www.myanonamouse.net/inviteapp.php) for more details.
+
++ [URL Safety Results](https://www.urlvoid.com/scan/myanonamouse.net/)
 
 🔗 ➜ Check Out More
 
@@ -422,6 +424,6 @@ URL Safety Results
 
 Looking for more torrent sites? Check our comprehensive all-purpose section.
 
-📜 [← Return to Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)
+###### 📜 [← Return to Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)
 
 Last revised by [LZ129Hindenburg](https://www.reddit.com/user/LZ129Hindenburg/) 6 days ago
