@@ -424,6 +424,6 @@ Great private tracker for ebooks, audiobooks, from the newest blockbuster public
 
 Looking for more torrent sites? Check our comprehensive all-purpose section.
 
-###### 📜 [← Return to Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)
+##### 📜 [← Return to Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)
 
 Last revised by [LZ129Hindenburg](https://www.reddit.com/user/LZ129Hindenburg/) 6 days ago
