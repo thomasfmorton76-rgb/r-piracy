@@ -1,3 +1,4 @@
+![Screenshot](IMG_1394.png)
 🪶 ➜ FAQ
 
 Read through the material supplied here for bite-sized information that is easy to absorb.
