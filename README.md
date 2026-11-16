@@ -1,427 +1,86 @@
-SECTIONS
+🪶 ➜ FAQ
 
+Read through the material supplied here for bite-sized information that is easy to absorb.
 
-### 📚 ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ Books
+ 
 
-❕ ➜ Quick Reminder
+ 
 
-+ ✅ All links have been reviewed and approved by moderators, but proceed with caution
-+ 👍 Rather than having an enormous variety, our [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) provides only the finest options
-+ 🐐 GOAT status = Highly regarded by the pirate community
-### 📑 ➜ Browser Reading
+📑 ➜ General Questions
 
-📒 [**NovelBuddy**](https://novelbuddy.com/)
+❔ Will I get in trouble if I visit a pirate website or download a certain file?
 
-Read light novels in English that are updated daily in Japan, Korea, and China.
+Most issues come when copyright holders lodge a complaint to your ISP (largely due to torrenting). Use a VPN to avoid receiving DMCA letters.
+Simply visiting the web or downloading a file normally will not pose an issue with your ISP. That being stated, use caution when using the internet. Your best line of defence will always be common sense.
+❔ Which OS (Operating System) is the safest when it comes to piracy?
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/novelbuddy.com/)
+One of the Linux distributions qualifies as safe if you mean least likelihood of contracting a virus. However, as Windows is by far the most widely used OS worldwide, the majority of digital items that are pirated would be directed at Windows users, offering the platform the widest selection at the compromise of some privacy and security.
+❔ Which search engine is best at uncovering pirated content?
 
-📒 [**Project Gutenberg**](https://www.gutenberg.org/)
+The algorithms, ranking criteria, and indexed page databases of each search engine play a crucial role in determining the relevance and accuracy of their search results. However, Yandex, the prominent search engine in Russia, stands out for its unique position. Unlike many others, it operates within a jurisdiction that does not adhere to international copyright laws or DMCA regulations. As a result, it has gained popularity among piracy enthusiasts due to its limited content filtering capabilities.
+Search engines like Google, Bing, and Yahoo! have faced criticism for their unquestioning adherence to DMCA requests. This approach has been deemed exploitable and prone to abuse, ultimately diminishing the effectiveness of these search engines and exposing users to potential risks, such as the display of cloned search results.
+❔ Are there signs to gauge the safety of a website?
 
-Founded in 1971, this source has continued to offer further materials such as Kindle ebooks.
+It is important to be mindful of website names and their authenticity. Take, for example, the case of Zippyshare's closure. If a new website emerges with names like "RealZippyshare", "TheZippyshare", "ZippyshareOfficial", or any other dubious variations, it is absolutely critical not to place your trust in it. Such naming patterns frequently act as definitive indicators of red flags and denote an alarming level of malicious intent.
+If a website lacks HTTPS encryption, it poses a significant concern as it allows for your online transmitted data to be accessed with complete transparency by your ISP and potential interceptors. In simpler terms, HTTPS is the way to go, while HTTP should be avoided.
+❔ Is it necessary to utilize antivirus software?
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/gutenberg.org/)
+Yes and no. Antiviruses are developed with good intentions to assist users in preventing, isolating, or removing malware. Therefore, it is not inherently negative.
+In order for antivirus programs to effectively carry out their tasks, they need to scan the personal offline files on a user's device and transmit the data back to the company. This process, however, raises concerns about the privacy and legitimacy of such actions.
+That being stated, the antivirus solution included with the operating system is more than capable, making the installation of an additional third-party antivirus software redundant.
+Consider antivirus software as the guardians of pirate ships. In the early days of your pirate adventures, you would rely on their protection as you sail the digital waters. However, as you gain more plundering prowess, you become skilled enough to navigate the seas without their constant vigilance.
+❔ How can I tell if what I download is safe?
 
-📒 [**Batcave**](https://batcave.biz/)
+By uploading files under 650 MB to VirusTotal for scanning, you can thoroughly analyze them for possible threats. Refer to this guide afterwards to discern between legitimate detections and false positives effectively.
+❔ How can I go to websites that my ISP has blocked?
 
-Indexes ongoing series, limited series, graphic novels, and trade paperbacks, updated regularly as new issues release.
+Change your DNS settings. If you don't do this, you'll wind up using your ISP's default DNS. Here are some great DNS choices.
+You can also use a VPN to get around the blocking. A free VPN like ProtonVPN or Windscribe is enough to get around website blocks.
+Note that changing your DNS settings does not hide your IP address. To accomplish this, a VPN is required.
+ 
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/batcave.biz/)
+ 
 
-### 📑 ➜ Direct Downloads
+📑 ➜ Downloads, Torrents, Trackers, and VPNs
 
-🐐 [**Anna's Archive**](https://annas-archive.gl/) / [Alt](https://annas-archive.pk/) / [Alt2](https://annas-archive.gd/)
+❔ What is the difference between Direct Downloads and Torrents?
 
-Library Genesis, Sci-Hub, and Z-Library are among the sites included in this resilient search engine of shadow libraries.
+Direct downloads: Files are kept on the server from which you are retrieving the material. A secure browser like Firefox + uBlock Origin is all you need to get the process started.
+Torrents: Also known as are peer-to-peer file sharing systems that need seeders (users who have previously downloaded the file). To begin torrenting files, a separate application is required.
+Torrenting without proper protection may get you in trouble because your IP address is visible due to the nature of the protocol. Direct downloads generally don't require additional protection.
+❔ What is the difference between a Public and Private Tracker?
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/annas-archive.li/)
+Public trackers: do not require any registration or login and are accessible to anybody. Because public trackers are open, anybody with the address may utilise them.
+Private trackers: are frequently used to refer to torrent websites where registration is required in order to download their torrents. In contrast to public trackers, these are not a free-for-all feast. You must contribute (by uploading) an amount equal to the sum you have taken from the tracker. A ratio method is used by private trackers to keep track of this contribution balance.
+❔ What is a VPN and what does it do?
 
-🐐 [**Liber3**](https://liber3.eth.limo/)
+VPN is an abbreviation for virtual private network, which tunnels your data through their servers. By acting as a man in the middle, a VPN allows you to circumvent worldwide limitations on website access and can help prevent copyright infringement notices when torrenting.
+When you connect to a VPN, your internet traffic is routed through a VPN server before being sent to your destination.
+❔ Which free VPN service is good for torrenting?
 
-Impressive collection, accompanied by a visually appealing user interface.
+None. Free VPNs are more likely to collect data from you for marketing purposes, be too sluggish to use, or not enable torrent activity at all. It is advised to subscribe to a VPN service such as Mullvad, Windscribe or ProtonVPN.
+ 
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/liber3.eth.limo/)
+ 
 
-🐐 [**Library Genesis**](https://librarygenesis.net/) / [Alt](https://libgen.li/)
+📑 ➜ Morals
 
-Books on engineering and natural science are being collected by the scientific community. Note: Some mirrors may have periodic access issues. View first link for official sites and alternatives.
+❔ What advantages do pirated copies have over legal copies?
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/libgen.is/)
+✔️ Pirated Advantages: Payment details and identity are not compromised. Can help save a lot of money for other purchases. You own it completely offline and may access it whenever you want. Unrestricted access to the highest quality. Develops a person's intelligence navigating the sea (internet).
+❌ Pirated Disadvantages: There is a little chance of malware if you don't know what you're doing or where to search.
+✔️ Legal Advantages: Although not directly benefiting oneself, it supports the creator.
+❌ Legal Disadvantages: Payment details and personal identification are at risk. Automated updates (games and software) when you aren't ready for them. Videos (anime, movies, and shows) of worse quality unless you pay a premium. DRM restrictions prevent offline consumption of material. Companies monitor your every step in order to display advertisements or regulate your activities.
+❔ Any further reasons for pirating content?
 
-🐐 [**Z-Library**](https://z-lib.gd/)
+Accessibility and Affordability: Particularly relevant in regions where legal distribution channels are limited or where certain content is not licensed for distribution. Piracy allows individuals to bypass these limitations and access the content they desire.
+Cultural Preservation: The distribution of specialized or non-mainstream content that may not be widely distributed through conventional means encompasses pieces by up-and-coming artists, documentaries, or cultural creations that delve into distinctive viewpoints and histories. Piracy can aid in guaranteeing that such content reaches a more extensive audience, thereby enhancing awareness and fostering a greater appreciation for diverse cultural manifestations.
+Forcing change on Corporations: Piracy can act as a catalyst for innovation and competition within industries. When corporations face competition from unauthorized sources, they may be motivated to adapt their business models, offer more affordable options, or improve the quality of their products and services. In this way, piracy can drive positive change by forcing companies to become more responsive to consumer demands and preferences.
+Sharing and Collaboration: The internet has revolutionized the way we access and disseminate information, allowing individuals from all walks of life to share and collaborate on a global scale. This democratization empowers people to learn, create, and innovate, leading to the advancement of society as a whole.
+ 
 
-File-sharing effort for scholarly journal articles, academic texts, and general-interest books.
+ 
 
-+ [URL Safety Results](https://www.urlvoid.com/scan/z-lib.gd/)
+⚓ ❮ Return to r/Piracy
 
-🔗 [**Courses Bag**](https://coursesbag.com/)
-
-Offering free courses and tutorials that are simple to follow through self-study.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/coursesbag.com/)
-
-🔗 [**DownMagaz**](https://downmagaz.net/)
-
-Easily get pdf magazines in practically every category for free.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/downmagaz.net/)
-
-🔗 [**ebook-hunter**](https://ebook-hunter.org/)
-
-Massive collection of PDF and EPUB ebooks that you can search for absolutely free.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/ebook-hunter.org/)
-
-🔗 [**ForCoder**](https://forcoder.net//) [Alt](https://coderprog.com/) / [Alt2](https://scanlibs.com/)
-
-Focuses on IT and programming books, which are available for free download.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/forcoder.net/)
-
-🔗 [**Free Magazines**](https://freemagazines.top/)
-
-Remain current on a variety of topics and hobbies while keeping you informed and entertained.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/freemagazines.top/)
-
-🔗 [**FreeCourseSite**](https://freemagazines.top/)
-
-Free downloads (including torrents) of paid courses from Udemy, including programming, marketing, and IT.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/freecoursesite.com/)
-
-🔗 [**FreeEducationWeb**](https://freeeducationweb.com/)
-
-Thousands of courses from top institutions like Udemy, Linkedin, Pluralsight, and Packtpub.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/freeeducationweb.com/)
-
-🔗 [**GetComics**](https://getcomics.org/)
-
-Comics from DC, Marvel, Image, Dark Horse, Dynamite, IDW, Oni, Valiant, and many more publishers.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/getcomics.org/)
-
-🔗 [**Kayoanime**](https://kayoanime.com/)• Google Group
-
-Active community for anime fans sharing updates, news, and download links with discussion.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/kayoanime.com/)
-
-🔗 [**KuPDF**](https://kupdf.net/)
-
-Large collection of PDF documents including books, academic papers, and educational materials.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/kupdf.net/)
-
-🔗 [**Manybooks**](https://manybooks.net/)
-
-Over 50,000 free ebooks in popular formats including epub, kindle, and PDF with advanced search options.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/manybooks.net/)
-
-🔗 [**Musopen**](https://musopen.org/)
-
-Distribution of music scores, publications, and recordings without copyright limitations. While downloading recordings requires an account, sheet music does not.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/musopen.org/)
-
-🔗 [**NoobSubs**](https://www.noobsubs.com/)
-
-Specializes in anime with dual English audio tracks plus torrent options for convenience.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/noobsubs.com/)
-
-🔗 [**OceanofPDF**](https://oceanofpdf.com/)
-
-You may get knowledge and information that are freely accessible to everyone.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/oceanofpdf.com/)
-
-🔗 [**Online Courses**](https://online-courses.club/)
-
-Watch videos on 3D modeling and animation, including a lot of CG Persia material.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/online-courses.club/)
-
-🔗 [**Open Library**](https://openlibrary.org/)
-
-Internet Archive's digital library with millions of books available to borrow and read online.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/openlibrary.org/)
-
-🔗 [**PDF Room**](https://pdfroom.com/)
-
-Search engine indexer where you may locate PDF books for leisure and education.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/pdfroom.com/)
-
-🔗 [**PDFMagazines Club**](https://pdfmagazines.club/)
-
-Over 200k journals are housed in a single collection, some of which include content for adults.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/pdfmagazines.club/)
-
-🔗 [**Sci-Hub**](https://sci-hub.su/)/ [Alt](https://sci-hub.st/) / [Alt2](https://sci-hub.ru/)
-
-Unlimited access to all scientific knowledge by breaking down academic paywalls since 2011.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/sci-hub.su/)
-
-🔗 [**Standard Ebooks**](https://standardebooks.org/)
-
-High-quality, carefully formatted public domain ebooks with beautiful typography and thoughtful design.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/standardebooks.org/)
-
-🔗 [**WeLib**](https://welib.org/) / [Alt](https://www.welib.st/)
-
-Anna's Archive Mirror.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/welib.org/)
-
-### 📑 ➜ Manga
-
-🐐 [**MangaDex**](https://mangadex.org/)
-
-All content is supplied by users, scanlation groups, and publishers, that supports all languages.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/mangadex.org/)
-
-🌸 [**Comix**](https://comix.to/)
-
-Comix is a modern online manga reading platform designed to bring fans closer to their favorite stories in a smarter and more personalized way.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/comix.to/)
-
-🌸 [**Kagane**](https://kagane.org/)
-
-Platform to read webtoon manhwa, tapas, lezin contents in highest quality possible directly from source.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/kagane.org/)
-
-🌸 [**Manga Fox**](https://fanfox.net/)
-
-+ Access hundreds of high-quality free manga titles online, with a daily updated list.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/fanfox.net/)
-
-🌸 [**MangaBuddy**](https://mangabuddy.com/)
-
-Largest database of manga, encompassing all genres with a wide range of topics.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/mangabuddy.com/)
-
-🌸 [**MangaFire**](https://mangafire.to/)
-
-Portal offers a big assortment of manga for all readers and a user-friendly layout.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/mangafire.to/)
-
-🌸 [**MangaHub**](https://mangahub.io/)
-
-Founded 5 years ago, it has amassed a sizable library of manga, manhwa, and manhua.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/mangahub.io/)
-
-🌸 [**MangaKakalot**](https://mangakakalot.gg/)
-
-Large variety of manga series are accessible, with the most recent collection open for viewers.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/mangakakalot.com/)
-
-🌸 [**MangaKatana**](https://mangakatana.com/)
-
-Read manga online for free, updated every hour! You'll always have material.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/mangakatana.com/)
-
-🌸 [**MangaPill**](https://mangapill.com/)
-
-Online English manga reading is free and always of the highest quality and freshest releases.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/mangapill.com/)
-
-🌸 [**Mangaread**](https://www.mangaread.org/)
-
-All manga is manually updated every day without relying on any automation.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/mangaread.org/)
-
-🌸 [**Nyora**](https://nyora.xyz/)
-
-Nyora is a fast, free, open-source manga, manhwa & manhua reader.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/nyora.xyz/)
-
-🌸 [**Toonily**](https://toonily.com/)
-
-Access to your favorite premium English-translated manhwa from top Korean publishers.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/toonily.com/)
-
-🌸 [**Usagi**](https://yumemi.moe/)
-
-A simple and convenient mulitlingual open source manga reader for Android.
-
-+ [URL Safety Results]
-
-🌸 [**WeebCentral**](https://weebcentral.com/)
-
-Collection for all manga genres is available where users can read forever.
-
-+ [URL Safety Results]
-
-### 🖥️ ➜ Manga Downloaders
-
-🖥️ [**Comic-DL**](https://github.com/Xonshiz/comic-dl)
-
-Command-line tool offering the downloading of comics, manga, and search.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
-
-🖥️ [**Comics Downloader**](https://github.com/Girbons/comics-downloader)
-
-Utility for acquiring comics and manga in various formats from websites.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
-
-🖥️ [**HakuNeko**](https://hakuneko.download/) / [GitHub](https://github.com/manga-download/hakuneko)
-
-Cross-platform manga and anime downloader allows you to save material for offline usage from a variety of websites.
-
-+ [URL Safety Results]
-
-🖥️ [**Manga Bot**](https://www.urlvoid.com/scan/hakuneko.download/)
-
-Easily download and save your favorite manga series with this efficient application.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/mangabot.github.io/)
-
-### 🔍 ➜ Search Engines
-
-🔍 [Rave Book Search](https://ravebooksearch.com/)
-
-Users are helped by the search engine in finding free eBook downloads. It also allows switching to an Audiobook search function.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/ravebooksearch.com/)
-
-🔍 [Recherche Ebook](https://recherche-ebook.fr/)• French UI
-
-Identifies sites where you may access free ebooks done by the sophisticated search engine.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/recherche-ebook.fr/)
-
-### ▶️ ➜ Streaming
-
-🐐 [AudioAZ](https://audioaz.com/)
-
-Provides a sizable library of audiobooks that may be downloaded or listened to internet by anybody.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/audioaz.com/)
-
-▶️ [AppAudioBooks](https://appaudiobooks.com/)
-
-Easy to use design that makes it simple to locate the audiobook you want to listen to.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/appaudiobooks.com/)
-
-▶️ [Audiobooks For Soul](https://audiobooks4soul.com/home/)
-
-All of the audiobooks on the website are of the greatest caliber, with flawless narration and crystal clear sound.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/audiobooks4soul.com/)
-
-▶️ [Big AudioBooks](https://bigaudiobooks.com/)
-
-Listen to the top audiobooks from a large collection of options.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/bigaudiobooks.com/)
-
-▶️ [Book Audiobooks](https://www.digitalbook.io/)
-
-Instantly browse and listen to the best audiobooks from a wide range of available selections.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/bigaudiobooks.com/)
-
-▶️ [Digitalbook](https://www.digitalbook.io/)
-
-Digital narration for the twenty-first century, available for direct download or streaming.
-
-+ URL Safety Results(https://www.urlvoid.com/scan/digitalbook.io/)
-
-▶️ [Free Classic AudioBooks](https://www.freeclassicaudiobooks.com/)
-
-A site where you can download and listen to public domain eBooks and audiobooks.
-
-+ [URL Safety Results](https://www.urlvoid.com/scan/freeclassicaudiobooks.com/)
-
-▶️ [FullLengthAudiobooks]
-
-Complete audiobooks available for streaming with easy navigation and good audio quality.
-
-+ URL Safety Results
-
-▶️ GalaxyAudiobooks
-
-Extensive collection of audiobooks across multiple genres with reliable streaming and download options.
-
-+ URL Safety Results
-
-▶️ GoldenAudiobook
-
-Huge selection of audiobooks in a variety of categories, including romance, business, self-help, and non-fiction.
-
-+ URL Safety Results
-
-▶️ HD Audio Books
-
-Take advantage of a wide selection of free audiobooks and podcasts.
-
-+ URL Safety Results
-
-▶️ Hot Audiobooks
-
-You may enjoy all of your favorite audiobooks for free online. Simply click to listen!
-
-+ URL Safety Results
-
-▶️ LibriVox
-
-Public domain audiobooks read by volunteers from around the world, completely free and legal.
-
-URL Safety Results
-
-▶️ Storynory
-
-Audio stories made for kids. Relax and let your kids' imaginations to wander to fantastical realms.
-
-URL Safety Results
-
-🧲 ➜ Torrent Sites
-
-🐐 AudioBook Bay
-
-Superb collection for audiobooks and shares a lot of content with MyAnonamouse. To download without an account, copy the info hash and paste it into your torrent client. Example: magnet:?xt=urn:btih:INFOHASH
-
-URL Safety Results
-🧲 Academic Torrents
-
-Huge datasets shared via a distributed system, giving researchers access to a scalable, secure, and fault-tolerant data repository.
-
-URL Safety Results
-🧲 MyAnonamouse • Sign Up Required
-
-Great private tracker for ebooks, audiobooks, from the newest blockbuster publications to those elusive gems. To obtain an invite, look at this page for more details.
-
-URL Safety Results
-
-🔗 ➜ Check Out More
-
-📜 [All Purpose Torrents](https://www.reddit.com/r/Piracy/wiki/megathread/all_purpose/)
-
-Looking for more torrent sites? Check our comprehensive all-purpose section.
-
-📜 [← Return to Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)
-
-Last revised by [LZ129Hindenburg](https://www.reddit.com/user/LZ129Hindenburg/) 6 days ago
+💀 ❮ Return to Wiki
