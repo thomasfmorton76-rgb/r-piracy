@@ -1,5 +1,4 @@
-
-![Screenshot](IMG_4588.png)
+Add IMG_4588.png
 
 ### 📚 ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)/ Books
 
