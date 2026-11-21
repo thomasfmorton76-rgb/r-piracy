@@ -1,3 +1,5 @@
+[Local Node Setup] ---> [Decentralized Mirroring] ---> [Localization & Translation] ---> [Viral Classroom P2P Distribution]
+
 ![Screenshot](IMG_9791.png)
 ### **📜 ➜ Megathread**
 
